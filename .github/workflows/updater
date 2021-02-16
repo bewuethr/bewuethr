@@ -23,3 +23,16 @@ cat <<- EOF > README.md
 
 	It's $weekday! During my waking hours, I might be $activity.
 EOF
+
+# Suppress detached HEAD warning
+git config advice.detachedHead false
+
+# Set git name and email
+git config --global user.name "github-actions"
+git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+if [[ -n $(git status --porcelain) ]]; then
+	git add README.md
+	git commit --message "Update README"
+	git push
+fi
