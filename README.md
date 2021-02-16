@@ -1,3 +1,3 @@
-### Placeholder until inspiration strikes
+### Hi there :wave:
 
-:thinking:
+It's Tuesday! During my waking hours, I might be working for [this bunch](https://github.com/kohofinancial).
