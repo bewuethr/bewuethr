@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 
-weekday=$(date '+%A')
-
 leisure=(
 	'fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles)'
 	'finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer)'
@@ -9,19 +7,37 @@ leisure=(
 	'crafting a fascinating [blog post](https://www.benjaminwuethrich.dev)'
 )
 
-case $weekday in
-	Saturday | Sunday)
-		activity=${leisure[RANDOM % ${#leisure[@]}]}
+work=(
+	'clicking some merge buttons'
+	'moving some Jira tickets'
+	'reviewing some pull requests'
+	'interviewing a potential new colleague'
+	'making a service more micro'
+)
+work=("${work[@]/#/'working for [this bunch](https://github.com/kohofinancial), '}")
+
+read -r weekday hour <<< "$(date '+%A +-H')"
+
+case $hour in
+	[0-7])
+		activity="I'm probably sleeping."
 		;;
 	*)
-		activity='working for [this bunch](https://github.com/kohofinancial)'
+		case $weekday in
+			Saturday | Sunday)
+				activity="I might be ${leisure[RANDOM % ${#leisure[@]}]}."
+				;;
+			*)
+				activity="I'm probably ${work[RANDOM % ${#work[@]}]}."
+				;;
+		esac
 		;;
 esac
 
 cat <<- EOF > README.md
 	### Hi there :wave:
 
-	It's $weekday! During my waking hours, I might be $activity.
+	It's $weekday! $activity
 EOF
 
 # Suppress detached HEAD warning
