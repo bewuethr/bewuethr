@@ -1,3 +1,3 @@
 ### Hi there :wave:
 
-It's Tuesday! During my waking hours, I might be working for [this bunch](https://github.com/kohofinancial).
+It's Tuesday! I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
