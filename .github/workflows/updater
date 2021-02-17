@@ -16,39 +16,53 @@ work=(
 )
 work=("${work[@]/#/'working for [this bunch](https://github.com/kohofinancial), '}")
 
-read -r weekday hour <<< "$(date '+%A +-H')"
+update() {
+	read -r weekday hour <<< "$(date '+%A %-H')"
 
-case $hour in
-	[0-7])
-		activity="I'm probably sleeping."
-		;;
-	*)
-		case $weekday in
-			Saturday | Sunday)
-				activity="I might be ${leisure[RANDOM % ${#leisure[@]}]}."
-				;;
-			*)
-				activity="I'm probably ${work[RANDOM % ${#work[@]}]}."
-				;;
-		esac
-		;;
-esac
+	case $hour in
+		[0-7])
+			activity="I'm probably sleeping."
+			;;
+		1[89] | 2[0-3])
+			activity="I might be ${leisure[RANDOM % ${#leisure[@]}]}."
+			;;
+		*)
+			case $weekday in
+				Saturday | Sunday)
+					activity="I might be ${leisure[RANDOM % ${#leisure[@]}]}."
+					;;
+				*)
+					activity="I'm probably ${work[RANDOM % ${#work[@]}]}."
+					;;
+			esac
+			;;
+	esac
 
-cat <<- EOF > README.md
-	### Hi there :wave:
+	cat <<- EOF > README.md
+		### Hi there :wave:
 
-	It's $weekday! $activity
-EOF
+		It's $weekday! $activity
+	EOF
+}
 
-# Suppress detached HEAD warning
-git config advice.detachedHead false
+push() {
+	# Suppress detached HEAD warning
+	git config advice.detachedHead false
 
-# Set git name and email
-git config --global user.name "github-actions"
-git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+	# Set git name and email
+	git config --global user.name "github-actions"
+	git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-if [[ -n $(git status --porcelain) ]]; then
-	git add README.md
-	git commit --message "Update README"
-	git push
-fi
+	if [[ -n $(git status --porcelain) ]]; then
+		git add README.md
+		git commit --message "Update README"
+		git push
+	fi
+}
+
+main() {
+	update
+	push
+}
+
+[[ ${BASH_SOURCE[0]} == "$0" ]] && main
