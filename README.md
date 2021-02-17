@@ -1,3 +1,3 @@
 ### Hi there :wave:
 
-It's Tuesday! I might be crafting a fascinating [blog post](https://www.benjaminwuethrich.dev).
+It's Wednesday! I'm probably sleeping.
