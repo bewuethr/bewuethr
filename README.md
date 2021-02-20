@@ -1,3 +1,3 @@
 ### Hi there :wave:
 
-It's Friday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
+It's Friday! I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
