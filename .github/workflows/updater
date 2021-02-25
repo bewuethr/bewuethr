@@ -32,7 +32,7 @@ updatestatus() {
 		   }
 		 }
 	  }
-	'
+	' | jq .
 }
 
 update() {
@@ -74,7 +74,7 @@ update() {
 
 push() {
 	# Suppress detached HEAD warning
-	git config advice.detachedHead false
+	# git config advice.detachedHead false
 
 	# Set git name and email
 	git config --global user.name 'github-actions'
