@@ -63,12 +63,14 @@ update() {
 			;;
 	esac
 
+	echo "Updating README with $weekday and $activity..."
 	cat <<- EOF > README.md
 		### Hi there :wave:
 
 		It's $weekday! $activity
 	EOF
 
+	echo "Updating profile status with $emoji..."
 	updatestatus "$emoji"
 }
 
@@ -78,6 +80,7 @@ push() {
 	git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
 
 	if [[ -n $(git status --porcelain) ]]; then
+		echo "Change detected; pushing new README..."
 		git add README.md
 		git commit --message 'Update README'
 		git push
