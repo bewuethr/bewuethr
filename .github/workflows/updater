@@ -16,6 +16,25 @@ work=(
 )
 work=("${work[@]/#/'working for [this bunch](https://github.com/kohofinancial), '}")
 
+
+updatestatus() {
+	local emoji=$1
+	gh api graphql --raw-field query='
+		mutation UpdateStatusEmoji {
+		  changeUserStatus(input:{emoji:"'"$emoji"'"}) {
+		   clientMutationId
+		   status {
+			 emoji
+			 updatedAt
+			 user {
+			   login
+			 }
+		   }
+		 }
+	  }
+	'
+}
+
 update() {
 	local weekday hour
 	read -r weekday hour <<< "$(date '+%A %-H')"
@@ -24,17 +43,21 @@ update() {
 	case $hour in
 		[0-7])
 			activity="I'm probably sleeping."
+			emoji=':sleeping:'
 			;;
 		1[89] | 2[0-3])
 			activity="I might be ${leisure[RANDOM % ${#leisure[@]}]}."
+			emoji=':man_juggling:'
 			;;
 		*)
 			case $weekday in
 				Saturday | Sunday)
 					activity="I might be ${leisure[RANDOM % ${#leisure[@]}]}."
+					emoji=':joystick:'
 					;;
 				*)
 					activity="I'm probably ${work[RANDOM % ${#work[@]}]}."
+					emoji=':nerd_face:'
 					;;
 			esac
 			;;
@@ -45,6 +68,8 @@ update() {
 
 		It's $weekday! $activity
 	EOF
+
+	updatestatus "$emoji"
 }
 
 push() {
