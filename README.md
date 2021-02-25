@@ -1,3 +1,3 @@
 ### Hi there :wave:
 
-Foo bar
+It's Thursday! I'm probably sleeping.
