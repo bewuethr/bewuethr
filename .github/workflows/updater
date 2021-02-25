@@ -17,8 +17,10 @@ work=(
 work=("${work[@]/#/'working for [this bunch](https://github.com/kohofinancial), '}")
 
 update() {
+	local weekday hour
 	read -r weekday hour <<< "$(date '+%A %-H')"
 
+	local activity emoji
 	case $hour in
 		[0-7])
 			activity="I'm probably sleeping."
@@ -50,12 +52,12 @@ push() {
 	git config advice.detachedHead false
 
 	# Set git name and email
-	git config --global user.name "github-actions"
-	git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+	git config --global user.name 'github-actions'
+	git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
 
 	if [[ -n $(git status --porcelain) ]]; then
 		git add README.md
-		git commit --message "Update README"
+		git commit --message 'Update README'
 		git push
 	fi
 }
