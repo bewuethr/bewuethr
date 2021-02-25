@@ -16,4 +16,6 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v2.3.4
       - name: Run updater
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: .github/workflows/updater
