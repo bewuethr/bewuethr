@@ -1,3 +1,3 @@
 ### Hi there :wave:
 
-It's Saturday! I might be crafting a fascinating [blog post](https://www.benjaminwuethrich.dev).
+It's Saturday! I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
