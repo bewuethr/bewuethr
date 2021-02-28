@@ -1,3 +1,3 @@
 ### Hi there :wave:
 
-It's Sunday! I might be crafting a fascinating [blog post](https://www.benjaminwuethrich.dev).
+It's Sunday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
