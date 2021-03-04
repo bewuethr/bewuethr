@@ -1,3 +1,3 @@
 ### Hi there :wave:
 
-It's Wednesday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
+It's Thursday! I'm probably sleeping.
