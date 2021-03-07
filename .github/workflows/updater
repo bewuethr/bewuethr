@@ -16,7 +16,6 @@ work=(
 )
 work=("${work[@]/#/'working for [this bunch](https://github.com/kohofinancial), '}")
 
-
 updatestatus() {
 	local emoji=$1
 	gh api graphql --raw-field query='
