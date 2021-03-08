@@ -16,6 +16,12 @@ work=(
 )
 work=("${work[@]/#/'working for [this bunch](https://github.com/kohofinancial), '}")
 
+getweather() {
+	local -n weather=$1
+	# shellcheck disable=SC2034
+	readarray -t weather < <(curl 'wttr.in/Toronto?m&lang=en&format=%C\n%t\n')
+}
+
 updatestatus() {
 	local emoji=$1
 	local message=$2
@@ -69,11 +75,16 @@ update() {
 			;;
 	esac
 
-	echo "Updating README with $weekday and $activity..."
+	local weather
+	getweather weather
+
+	echo "Updating README with $weekday and $activity, weather ${weather[*]}..."
 	cat <<- EOF > README.md
 		### Hi there :wave:
 
 		It's $weekday! $activity
+
+		Weather in Toronto: ${weather[0],}, at ${weather[1]}.
 	EOF
 
 	echo "Updating profile status with $emoji and $message..."
