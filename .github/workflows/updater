@@ -17,9 +17,9 @@ work=(
 work=("${work[@]/#/'working for [this bunch](https://github.com/kohofinancial), '}")
 
 getweather() {
-	local -n weather=$1
+	local -n w=$1
 	# shellcheck disable=SC2034
-	readarray -t weather < <(curl 'wttr.in/Toronto?m&lang=en&format=%C\n%t\n')
+	readarray -t w < <(curl 'wttr.in/Toronto?m&lang=en&format=%C\n%t\n')
 }
 
 updatestatus() {
