@@ -3,7 +3,7 @@ name: Update README
 on:
   workflow_dispatch:
   schedule:
-    - cron: 5 0,8-23 * * *
+    - cron: 5 * * * *
 
 env:
   TZ: America/Toronto
