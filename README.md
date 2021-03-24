@@ -2,4 +2,4 @@
 
 It's Wednesday! I'm probably working for [this bunch](https://github.com/kohofinancial), clicking some merge buttons.
 
-Weather in Toronto: overcast, at +9°C.
+Weather in Toronto: overcast, at +8°C.
