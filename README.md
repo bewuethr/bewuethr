@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Sunday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
+It's Sunday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
 
 Weather in Toronto: unknown location; please try ~43.6529206,-79.3849007, at .
