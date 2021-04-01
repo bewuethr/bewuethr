@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I'm probably working for [this bunch](https://github.com/kohofinancial), moving some Jira tickets.
+It's Thursday! I might be crafting a fascinating [blog post](https://www.benjaminwuethrich.dev).
 
-Weather in Toronto: partly cloudy, at +3°C.
+Weather in Toronto: partly cloudy, at +0°C.
