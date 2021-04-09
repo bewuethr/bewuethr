@@ -2,4 +2,4 @@
 
 It's Friday! I'm probably sleeping.
 
-Weather in Toronto: partly cloudy, at +9°C.
+Weather in Toronto: light rain, at +11°C.
