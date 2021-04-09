@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
+It's Friday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
 
-Weather in Toronto: overcast, at +13°C.
+Weather in Toronto: sunny, at +12°C.
