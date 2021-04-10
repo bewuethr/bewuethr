@@ -2,4 +2,4 @@
 
 It's Saturday! I might be crafting a fascinating [blog post](https://www.benjaminwuethrich.dev).
 
-Weather in Toronto: sunny, at +11°C.
+Weather in Toronto: sunny, at +12°C.
