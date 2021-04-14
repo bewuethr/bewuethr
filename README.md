@@ -2,4 +2,4 @@
 
 It's Wednesday! I'm probably sleeping.
 
-Weather in Toronto: fog, at +5°C.
+Weather in Toronto: mist, at +5°C.
