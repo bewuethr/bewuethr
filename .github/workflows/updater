@@ -5,6 +5,8 @@ leisure=(
 	'finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer)'
 	'polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog)'
 	'crafting a fascinating [blog post](https://www.benjaminwuethrich.dev)'
+	'watching [YouTube videos about relay computers](https://youtube.com/playlist?list=PL_1HsIiuOfg3QA91DUd9kGJjQoOHwlt5Q)'
+	'reading a [book](https://www.goodreads.com/review/list/37130358-benjamin?ref=nav_mybooks&shelf=currently-reading)'
 )
 
 work=(
@@ -13,6 +15,8 @@ work=(
 	'reviewing some pull requests'
 	'interviewing a potential new colleague'
 	'making a service more micro'
+	'overthrowing the banking establishment'
+	'maintaining a Git mailmap'
 )
 work=("${work[@]/#/'working for [this bunch](https://github.com/kohofinancial), '}")
 
