@@ -2,4 +2,4 @@
 
 It's Monday! I might be crafting a fascinating [blog post](https://www.benjaminwuethrich.dev).
 
-Weather in Toronto: partly cloudy, at +11°C.
+Weather in Toronto: overcast, at +14°C.
