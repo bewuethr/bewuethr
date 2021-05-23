@@ -2,4 +2,4 @@
 
 It's Saturday! I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
 
-Weather in Toronto: overcast, at +24°C.
+Weather in Toronto: clear, at +15°C.
