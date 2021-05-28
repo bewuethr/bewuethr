@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I'm probably working for [this bunch](https://github.com/kohofinancial), overthrowing the banking establishment.
+It's Friday! I might be crafting a fascinating [blog post](https://www.benjaminwuethrich.dev).
 
 Weather in Toronto: light rain, at +6°C.
