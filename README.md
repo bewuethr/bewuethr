@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I'm probably working for [this bunch](https://github.com/kohofinancial), moving some Jira tickets.
+It's Tuesday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
 
-Weather in Toronto: sunny, at +21°C.
+Weather in Toronto: partly cloudy, at +20°C.
