@@ -2,4 +2,4 @@
 
 It's Tuesday! I'm probably sleeping.
 
-Weather in Toronto: partly cloudy, at +17°C.
+Weather in Toronto: light rain, mist, at +18°C.
