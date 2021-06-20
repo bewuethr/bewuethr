@@ -2,4 +2,4 @@
 
 It's Sunday! I'm probably sleeping.
 
-Weather in Toronto: <html>, at <head><title>504 Gateway Time-out</title></head>.
+Weather in Toronto: clear, at +15°C.
