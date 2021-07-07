@@ -2,4 +2,4 @@
 
 It's Wednesday! I'm probably sleeping.
 
-Weather in Toronto: partly cloudy, at +24°C.
+Weather in Toronto: light rain with thunderstorm, at +22°C.
