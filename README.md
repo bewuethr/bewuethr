@@ -2,4 +2,4 @@
 
 It's Friday! I'm probably sleeping.
 
-Weather in Toronto: light rain, mist, at +19°C.
+Weather in Toronto: mist, at +19°C.
