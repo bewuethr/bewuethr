@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I might be tweaking my [Slack workspace analyzer action](https://github.com/bewuethr/slack-analyzer).
+It's Saturday! I'm probably sleeping.
 
-Weather in Toronto: overcast, at +19°C.
+Weather in Toronto: unknown location; please try ~43.6529206,-79.3849007, at .
