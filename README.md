@@ -2,4 +2,4 @@
 
 It's Saturday! I'm probably sleeping.
 
-Weather in Toronto: unknown location; please try ~43.6529206,-79.3849007, at .
+Weather in Toronto: overcast, at +18°C.
