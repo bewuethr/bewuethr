@@ -2,4 +2,4 @@
 
 It's Saturday! I'm probably sleeping.
 
-Weather in Toronto: partly cloudy, at +21°C.
+Weather in Toronto: light rain, at +20°C.
