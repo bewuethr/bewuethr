@@ -2,4 +2,4 @@
 
 It's Wednesday! I'm probably sleeping.
 
-Weather in Toronto: partly cloudy, at +20°C.
+Weather in Toronto: sunny, at +17°C.
