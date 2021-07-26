@@ -2,4 +2,4 @@
 
 It's Monday! I'm probably sleeping.
 
-Weather in Toronto: clear, at +26°C.
+Weather in Toronto: haze, at +22°C.
