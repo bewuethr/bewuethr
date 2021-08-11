@@ -2,4 +2,4 @@
 
 It's Wednesday! I'm probably sleeping.
 
-Weather in Toronto: clear, at +24°C.
+Weather in Toronto: thunderstorm in vicinity, mist, at +25°C.
