@@ -2,4 +2,4 @@
 
 It's Monday! I'm probably working for [this bunch](https://github.com/kohofinancial), clicking some merge buttons.
 
-Weather in Toronto: sunny, at +21°C.
+Weather in Toronto: sunny, at +22°C.
