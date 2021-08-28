@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
+It's Friday! I might be crafting a fascinating [blog post](https://www.benjaminwuethrich.dev).
 
-Weather in Toronto: sunny, at +25°C.
+Weather in Toronto: partly cloudy, at +24°C.
