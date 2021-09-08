@@ -2,4 +2,4 @@
 
 It's Wednesday! I'm probably sleeping.
 
-Weather in Toronto: light rain, thunderstorm in vicinity, at +20°C.
+Weather in Toronto: overcast, at +18°C.
