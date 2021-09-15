@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I might be crafting a fascinating [blog post](https://www.benjaminwuethrich.dev).
+It's Wednesday! I'm probably sleeping.
 
-Weather in Toronto: partly cloudy, at +21°C.
+Weather in Toronto: partly cloudy, at +18°C.
