@@ -2,4 +2,4 @@
 
 It's Thursday! I'm probably working for [this bunch](https://github.com/kohofinancial), making a service more micro.
 
-Weather in Toronto: partly cloudy, at +17°C.
+Weather in Toronto: partly cloudy, at +18°C.
