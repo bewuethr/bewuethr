@@ -2,4 +2,4 @@
 
 It's Sunday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
 
-Weather in Toronto: sunny, at +15°C.
+Weather in Toronto: sunny, at +17°C.
