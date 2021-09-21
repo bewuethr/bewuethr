@@ -25,8 +25,9 @@ work=("${work[@]/#/'working for [this bunch](https://github.com/kohofinancial), 
 
 getweather() {
 	local -n w=$1
+	local location=$2
 	# shellcheck disable=SC2034
-	readarray -t w < <(curl 'wttr.in/Toronto?m&lang=en&format=%C\n%t\n')
+	readarray -t w < <(curl "wttr.in/$location?m&lang=en&format=%C\n%t\n")
 }
 
 updatestatus() {
@@ -51,6 +52,7 @@ updatestatus() {
 }
 
 update() {
+	local location=$1
 	local weekday hour
 	read -r weekday hour <<< "$(date '+%A %-H')"
 
@@ -83,7 +85,7 @@ update() {
 	esac
 
 	local weather
-	getweather weather
+	getweather weather "$location"
 
 	echo "Updating README with $weekday and $activity, weather ${weather[*]}..."
 	cat <<- EOF > README.md
@@ -91,7 +93,7 @@ update() {
 
 		It's $weekday! $activity
 
-		Weather in Toronto: ${weather[0],}, at ${weather[1]}.
+		Weather in $location: ${weather[0],}, at ${weather[1]}.
 	EOF
 
 	echo "Updating profile status with $emoji and $message..."
@@ -112,8 +114,9 @@ push() {
 }
 
 main() {
-	update
+	local location=$1
+	update "$location"
 	push
 }
 
-[[ ${BASH_SOURCE[0]} == "$0" ]] && main
+[[ ${BASH_SOURCE[0]} == "$0" ]] && main 'Winterthur'
