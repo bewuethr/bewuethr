@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
+It's Friday! I'm probably sleeping.
 
-Weather in Winterthur: clear, at +13°C.
+Weather in Winterthur: clear, at +12°C.
