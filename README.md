@@ -2,4 +2,4 @@
 
 It's Saturday! I'm probably sleeping.
 
-Weather in Winterthur: fog, at +10°C.
+Weather in Winterthur: patches of fog, at +9°C.
