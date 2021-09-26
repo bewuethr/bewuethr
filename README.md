@@ -2,4 +2,4 @@
 
 It's Sunday! I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
 
-Weather in Winterthur: light rain shower, at +18°C.
+Weather in Winterthur: unknown location; please try ~47.4991723,8.7291498, at .
