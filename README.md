@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Sunday! I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
+It's Sunday! I might be watching [YouTube videos about relay computers](https://youtube.com/playlist?list=PL_1HsIiuOfg3QA91DUd9kGJjQoOHwlt5Q).
 
-Weather in Winterthur: unknown location; please try ~47.4991723,8.7291498, at .
+Weather in Winterthur: partly cloudy, at +19°C.
