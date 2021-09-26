@@ -2,4 +2,4 @@
 
 It's Sunday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
 
-Weather in Winterthur: partly cloudy, at +19°C.
+Weather in Winterthur: partly cloudy, at +15°C.
