@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I'm probably working for [this bunch](https://github.com/kohofinancial), making a service more micro.
+It's Tuesday! I'm probably working for [this bunch](https://github.com/kohofinancial), de-flaking a test.
 
-Weather in Winterthur: partly cloudy, at +14°C.
+Weather in Winterthur: partly cloudy, at +16°C.
