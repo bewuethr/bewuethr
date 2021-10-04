@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I'm probably working for [this bunch](https://github.com/kohofinancial), reviewing some pull requests.
+It's Monday! I'm probably working for [this bunch](https://github.com/kohofinancial), interviewing a potential new colleague.
 
-Weather in Winterthur: light drizzle, drizzle, at +10°C.
+Weather in Winterthur: overcast, at +11°C.
