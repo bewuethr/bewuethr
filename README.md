@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
+It's Wednesday! I'm probably sleeping.
 
-Weather in Winterthur: light rain shower, at +14°C.
+Weather in Winterthur: light rain, at +10°C.
