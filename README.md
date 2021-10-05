@@ -2,4 +2,4 @@
 
 It's Tuesday! I'm probably sleeping.
 
-Weather in Winterthur: light rain, at +12°C.
+Weather in Winterthur: light rain, at +11°C.
