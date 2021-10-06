@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Wednesday! I might be tweaking my [Slack workspace analyzer action](https://github.com/bewuethr/slack-analyzer).
+It's Wednesday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
 
-Weather in Winterthur: partly cloudy, at +12°C.
+Weather in Winterthur: unknown location; please try ~47.4991723,8.7291498, at .
