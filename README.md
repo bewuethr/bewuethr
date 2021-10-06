@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Wednesday! I'm probably working for [this bunch](https://github.com/kohofinancial), making a service more micro.
+It's Wednesday! I'm probably working for [this bunch](https://github.com/kohofinancial), overthrowing the banking establishment.
 
-Weather in Winterthur: unknown location; please try ~47.4991723,8.7291498, at .
+Weather in Winterthur: shower in vicinity, rain shower, at +12°C.
