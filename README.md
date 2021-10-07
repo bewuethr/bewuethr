@@ -2,4 +2,4 @@
 
 It's Thursday! I'm probably sleeping.
 
-Weather in Winterthur: partly cloudy, at +9°C.
+Weather in Winterthur: light rain shower, at +9°C.
