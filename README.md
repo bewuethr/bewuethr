@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
+It's Thursday! I might be crafting a fascinating [blog post](https://www.benjaminwuethrich.dev).
 
-Weather in Winterthur: partly cloudy, at +13°C.
+Weather in Winterthur: overcast, at +12°C.
