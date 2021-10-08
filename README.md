@@ -2,4 +2,4 @@
 
 It's Friday! I'm probably sleeping.
 
-Weather in Winterthur: partly cloudy, at +9°C.
+Weather in Winterthur: overcast, at +10°C.
