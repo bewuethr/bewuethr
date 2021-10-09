@@ -2,4 +2,4 @@
 
 It's Saturday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
 
-Weather in Winterthur: partly cloudy, at +14°C.
+Weather in Winterthur: partly cloudy, at +13°C.
