@@ -2,4 +2,4 @@
 
 It's Sunday! I might be watching [YouTube videos about relay computers](https://youtube.com/playlist?list=PL_1HsIiuOfg3QA91DUd9kGJjQoOHwlt5Q).
 
-Weather in Winterthur: overcast, at +9°C.
+Weather in Winterthur: partly cloudy, at +10°C.
