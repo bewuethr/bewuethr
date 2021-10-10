@@ -2,4 +2,4 @@
 
 It's Sunday! I'm probably sleeping.
 
-Weather in Winterthur: clear, at +4°C.
+Weather in Winterthur: overcast, at +4°C.
