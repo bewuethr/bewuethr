@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I might be crafting a fascinating [blog post](https://www.benjaminwuethrich.dev).
+It's Tuesday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
 
-Weather in Winterthur: overcast, at +12°C.
+Weather in Winterthur: overcast, at +11°C.
