@@ -2,4 +2,4 @@
 
 It's Tuesday! I'm probably sleeping.
 
-Weather in Winterthur: clear, at +6°C.
+Weather in Winterthur: clear, at +5°C.
