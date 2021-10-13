@@ -2,4 +2,4 @@
 
 It's Wednesday! I'm probably working for [this bunch](https://github.com/kohofinancial), moving some Jira tickets.
 
-Weather in Winterthur: partly cloudy, at +8°C.
+Weather in Winterthur: partly cloudy, at +9°C.
