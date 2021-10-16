@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! I might be crafting a fascinating [blog post](https://www.benjaminwuethrich.dev).
+It's Sunday! I'm probably sleeping.
 
 Weather in Winterthur: partly cloudy, at +6°C.
