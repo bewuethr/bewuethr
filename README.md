@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! I might be crafting a fascinating [blog post](https://www.benjaminwuethrich.dev).
+It's Saturday! I might be tweaking my [Slack workspace analyzer action](https://github.com/bewuethr/slack-analyzer).
 
-Weather in Winterthur: , at Sorry, we are running out of queries to the weather service at the moment..
+Weather in Winterthur: overcast, at +8°C.
