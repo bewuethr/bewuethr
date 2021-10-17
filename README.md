@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Sunday! I might be reading a [book](https://www.goodreads.com/review/list/37130358-benjamin?ref=nav_mybooks&shelf=currently-reading).
+It's Sunday! I might be tweaking my [Slack workspace analyzer action](https://github.com/bewuethr/slack-analyzer).
 
-Weather in Winterthur: fog, at +6°C.
+Weather in Winterthur: unknown location; please try ~47.4991723,8.7291498, at .
