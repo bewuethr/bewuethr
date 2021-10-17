@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Sunday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
+It's Sunday! I might be crafting a fascinating [blog post](https://www.benjaminwuethrich.dev).
 
-Weather in Winterthur: sunny, at +13°C.
+Weather in Winterthur: sunny, at +15°C.
