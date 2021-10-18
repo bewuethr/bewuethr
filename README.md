@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I might be crafting a fascinating [blog post](https://www.benjaminwuethrich.dev).
+It's Monday! I might be tweaking my [Slack workspace analyzer action](https://github.com/bewuethr/slack-analyzer).
 
-Weather in Winterthur: clear, at +11°C.
+Weather in Winterthur: fog, at +8°C.
