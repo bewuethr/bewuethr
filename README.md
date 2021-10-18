@@ -2,4 +2,4 @@
 
 It's Monday! I'm probably sleeping.
 
-Weather in Winterthur: partly cloudy, at +5°C.
+Weather in Winterthur: fog, at +6°C.
