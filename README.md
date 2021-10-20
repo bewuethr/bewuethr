@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Wednesday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
+It's Wednesday! I might be watching [YouTube videos about relay computers](https://youtube.com/playlist?list=PL_1HsIiuOfg3QA91DUd9kGJjQoOHwlt5Q).
 
-Weather in Winterthur: partly cloudy, at +16°C.
+Weather in Winterthur: clear, at +13°C.
