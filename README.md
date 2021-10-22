@@ -2,4 +2,4 @@
 
 It's Friday! I'm probably sleeping.
 
-Weather in Winterthur: overcast, at +13°C.
+Weather in Winterthur: light rain shower, at +12°C.
