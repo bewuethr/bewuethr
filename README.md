@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
+It's Friday! I might be crafting a fascinating [blog post](https://www.benjaminwuethrich.dev).
 
-Weather in Winterthur: partly cloudy, at +9°C.
+Weather in Winterthur: clear, at +5°C.
