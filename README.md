@@ -2,4 +2,4 @@
 
 It's Saturday! I'm probably sleeping.
 
-Weather in Winterthur: partly cloudy, at +2°C.
+Weather in Winterthur: shallow fog, fog in vicinity, parftial fog, at -1°C.
