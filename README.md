@@ -2,4 +2,4 @@
 
 It's Saturday! I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
 
-Weather in Winterthur: sunny, at +12°C.
+Weather in Winterthur: clear, at +10°C.
