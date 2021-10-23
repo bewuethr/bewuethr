@@ -2,4 +2,4 @@
 
 It's Saturday! I'm probably sleeping.
 
-Weather in Winterthur: partly cloudy, at +3°C.
+Weather in Winterthur: partly cloudy, at +2°C.
