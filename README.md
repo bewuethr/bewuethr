@@ -2,4 +2,4 @@
 
 It's Monday! I'm probably sleeping.
 
-Weather in Winterthur: patches of fog, at +3°C.
+Weather in Winterthur: , at Sorry, we are running out of queries to the weather service at the moment..
