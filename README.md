@@ -2,4 +2,4 @@
 
 It's Wednesday! I'm probably sleeping.
 
-Weather in Winterthur: clear, at +8°C.
+Weather in Winterthur: fog, at +5°C.
