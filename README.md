@@ -2,4 +2,4 @@
 
 It's Tuesday! I'm probably sleeping.
 
-Weather in Winterthur: patches of fog, at +5°C.
+Weather in Winterthur: partly cloudy, at +5°C.
