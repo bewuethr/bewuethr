@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I'm probably sleeping.
+It's Tuesday! I'm probably working for [this bunch](https://github.com/kohofinancial), clicking some merge buttons.
 
-Weather in Winterthur: overcast, at +6°C.
+Weather in Winterthur: shower in vicinity, at +7°C.
