@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Wednesday! I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
+It's Wednesday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
 
-Weather in Winterthur: sunny, at +13°C.
+Weather in Winterthur: clear, at +8°C.
