@@ -2,4 +2,4 @@
 
 It's Wednesday! I'm probably sleeping.
 
-Weather in Winterthur: fog, at +5°C.
+Weather in Winterthur: light rain shower, at +4°C.
