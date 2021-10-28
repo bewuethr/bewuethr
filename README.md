@@ -2,4 +2,4 @@
 
 It's Thursday! I'm probably working for [this bunch](https://github.com/kohofinancial), overthrowing the banking establishment.
 
-Weather in Winterthur: mist, at +6°C.
+Weather in Winterthur: overcast, at +6°C.
