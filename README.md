@@ -2,4 +2,4 @@
 
 It's Friday! I'm probably sleeping.
 
-Weather in Winterthur: patches of fog, mist, at +4°C.
+Weather in Winterthur: unknown location; please try ~47.4991723,8.7291498, at .
