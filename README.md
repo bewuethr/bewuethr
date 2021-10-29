@@ -1,5 +1,3 @@
 ### Hi there :wave:
 
-It's Friday! I'm probably working for [this bunch](https://github.com/kohofinancial), clicking some merge buttons.
-
-Weather in Winterthur: partly cloudy, at +10°C.
+I'm currently roaming the Central European prairies. Regularly scheduled updates back here in a bit!
