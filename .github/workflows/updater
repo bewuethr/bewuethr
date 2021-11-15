@@ -119,4 +119,4 @@ main() {
 	push
 }
 
-[[ ${BASH_SOURCE[0]} == "$0" ]] && main 'Winterthur'
+[[ ${BASH_SOURCE[0]} == "$0" ]] && main 'Toronto'
