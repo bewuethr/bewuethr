@@ -1,3 +1,5 @@
 ### Hi there :wave:
 
-I'm currently roaming the Central European prairies. Regularly scheduled updates back here in a bit!
+It's Monday! I'm probably working for [this bunch](https://github.com/kohofinancial), interviewing a potential new colleague.
+
+Weather in Winterthur: overcast, at +6°C.
