@@ -6,7 +6,7 @@ on:
     - cron: 5 * * * *
 
 env:
-  TZ: Europe/Zurich
+  TZ: America/Toronto
 
 jobs:
   update:
