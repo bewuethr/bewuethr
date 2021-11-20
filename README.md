@@ -2,4 +2,4 @@
 
 It's Friday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
 
-Weather in Toronto: sunny, at +6°C.
+Weather in Toronto: clear, at +6°C.
