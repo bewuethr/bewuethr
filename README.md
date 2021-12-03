@@ -1,5 +1,3 @@
 ### Hi there :wave:
 
-It's Friday! I'm probably working for [this bunch](https://github.com/kohofinancial), reviewing some pull requests.
-
-Weather in Toronto: sunny, at +4°C.
+I'm on holiday and haven't yet configured auto-updates to properly reflect that, so they're paused for now.
