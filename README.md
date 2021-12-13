@@ -1,3 +1,5 @@
 ### Hi there :wave:
 
-I'm on holiday and haven't yet configured auto-updates to properly reflect that, so they're paused for now.
+It's Monday! I'm probably working for [this bunch](https://github.com/kohofinancial), overthrowing the banking establishment.
+
+Weather in Toronto: sunny, at +7°C.
