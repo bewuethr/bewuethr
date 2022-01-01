@@ -2,4 +2,4 @@
 
 It's Saturday! I'm probably sleeping.
 
-Weather in Toronto: mist, at +5°C.
+Weather in Toronto: light rain, fog, at +4°C.
