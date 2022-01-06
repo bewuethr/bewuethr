@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Wednesday! I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
+It's Thursday! I'm probably sleeping.
 
-Weather in Toronto: light snow, at -1°C.
+Weather in Toronto: partly cloudy, at -4°C.
