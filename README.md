@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Wednesday! I might be watching [YouTube videos about relay computers](https://youtube.com/playlist?list=PL_1HsIiuOfg3QA91DUd9kGJjQoOHwlt5Q).
+It's Wednesday! I might be crafting a fascinating [blog post](https://www.benjaminwuethrich.dev).
 
-Weather in Toronto: light rain, at +1°C.
+Weather in Toronto: light snow, at -1°C.
