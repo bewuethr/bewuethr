@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Sunday! I might be crafting a fascinating [blog post](https://www.benjaminwuethrich.dev).
+It's Monday! I'm probably sleeping.
 
 Weather in Toronto: overcast, at -5°C.
