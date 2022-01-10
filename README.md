@@ -2,4 +2,4 @@
 
 It's Sunday! I might be crafting a fascinating [blog post](https://www.benjaminwuethrich.dev).
 
-Weather in Toronto: partly cloudy, at -3°C.
+Weather in Toronto: overcast, at -5°C.
