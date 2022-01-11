@@ -2,4 +2,4 @@
 
 It's Tuesday! I'm probably sleeping.
 
-Weather in Toronto: light snow, at -12°C.
+Weather in Toronto: clear, at -16°C.
