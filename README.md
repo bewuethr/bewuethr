@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I might be crafting a fascinating [blog post](https://www.benjaminwuethrich.dev).
+It's Friday! I might be tweaking my [Slack workspace analyzer action](https://github.com/bewuethr/slack-analyzer).
 
-Weather in Toronto: clear, at -13°C.
+Weather in Toronto: clear, at -16°C.
