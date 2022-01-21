@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
+It's Thursday! I might be watching [YouTube videos about relay computers](https://youtube.com/playlist?list=PL_1HsIiuOfg3QA91DUd9kGJjQoOHwlt5Q).
 
-Weather in Toronto: unknown location; please try ~43.6529206,-79.3849007, at .
+Weather in Toronto: clear, at -12°C.
