@@ -2,4 +2,4 @@
 
 It's Saturday! I'm probably sleeping.
 
-Weather in Toronto: light snow, at -10°C.
+Weather in Toronto: light snow, at -9°C.
