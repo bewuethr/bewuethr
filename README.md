@@ -2,4 +2,4 @@
 
 It's Saturday! I might be crafting a fascinating [blog post](https://www.benjaminwuethrich.dev).
 
-Weather in Toronto: light snow, at -4°C.
+Weather in Toronto: clear, at -4°C.
