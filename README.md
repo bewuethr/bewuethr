@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Sunday! I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
+It's Sunday! I might be crafting a fascinating [blog post](https://www.benjaminwuethrich.dev).
 
-Weather in Toronto: clear, at -9°C.
+Weather in Toronto: clear, at -11°C.
