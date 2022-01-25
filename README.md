@@ -2,4 +2,4 @@
 
 It's Tuesday! I'm probably sleeping.
 
-Weather in Toronto: partly cloudy, at -6°C.
+Weather in Toronto: overcast, at -7°C.
