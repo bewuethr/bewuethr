@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! I'm probably sleeping.
+It's Saturday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
 
-Weather in Toronto: overcast, at -12°C.
+Weather in Toronto: sunny, at -13°C.
