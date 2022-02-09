@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I might be watching [YouTube videos about relay computers](https://youtube.com/playlist?list=PL_1HsIiuOfg3QA91DUd9kGJjQoOHwlt5Q).
+It's Tuesday! I might be crafting a fascinating [blog post](https://www.benjaminwuethrich.dev).
 
-Weather in Toronto: partly cloudy, at -1°C.
+Weather in Toronto: clear, at -3°C.
