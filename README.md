@@ -2,4 +2,4 @@
 
 It's Wednesday! I'm probably working for [this bunch](https://github.com/kohofinancial), maintaining a Git mailmap.
 
-Weather in Toronto: clear, at -2°C.
+Weather in Toronto: partly cloudy, at +0°C.
