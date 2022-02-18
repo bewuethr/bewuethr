@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I might be watching [YouTube videos about relay computers](https://youtube.com/playlist?list=PL_1HsIiuOfg3QA91DUd9kGJjQoOHwlt5Q).
+It's Thursday! I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
 
-Weather in Toronto: light rain, at +1°C.
+Weather in Toronto: light snow, at +0°C.
