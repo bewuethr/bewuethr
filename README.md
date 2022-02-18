@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I might be crafting a fascinating [blog post](https://www.benjaminwuethrich.dev).
+It's Friday! I'm probably sleeping.
 
 Weather in Toronto: light snow, at +0°C.
