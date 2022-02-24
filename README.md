@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Wednesday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
+It's Wednesday! I might be crafting a fascinating [blog post](https://www.benjaminwuethrich.dev).
 
-Weather in Toronto: sunny, at -6°C.
+Weather in Toronto: partly cloudy, at -9°C.
