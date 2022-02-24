@@ -2,4 +2,4 @@
 
 It's Thursday! I'm probably sleeping.
 
-Weather in Toronto: unknown location; please try ~43.6529206,-79.3849007, at .
+Weather in Toronto: partly cloudy, at -9°C.
