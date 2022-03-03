@@ -2,4 +2,4 @@
 
 It's Thursday! I'm probably sleeping.
 
-Weather in Toronto: light snow, at +0°C.
+Weather in Toronto: partly cloudy, at -2°C.
