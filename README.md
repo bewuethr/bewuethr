@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
+It's Friday! I might be crafting a fascinating [blog post](https://www.benjaminwuethrich.dev).
 
-Weather in Toronto: sunny, at +2°C.
+Weather in Toronto: clear, at +0°C.
