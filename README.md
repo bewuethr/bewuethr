@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I might be crafting a fascinating [blog post](https://www.benjaminwuethrich.dev).
+It's Saturday! I'm probably sleeping.
 
 Weather in Toronto: overcast, at +0°C.
