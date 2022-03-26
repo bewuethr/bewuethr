@@ -2,4 +2,4 @@
 
 It's Friday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
 
-Weather in Toronto: overcast, at +5°C.
+Weather in Toronto: overcast, at +4°C.
