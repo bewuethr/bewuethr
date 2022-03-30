@@ -2,4 +2,4 @@
 
 It's Wednesday! I'm probably working for [this bunch](https://github.com/kohofinancial), moving some Jira tickets.
 
-Weather in Toronto: partly cloudy, at +0°C.
+Weather in Toronto: light snow, at +0°C.
