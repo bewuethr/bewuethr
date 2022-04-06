@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Wednesday! I'm probably working for [this bunch](https://github.com/kohofinancial), making a service more micro.
+It's Wednesday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
 
 Weather in Toronto: overcast, at +9°C.
