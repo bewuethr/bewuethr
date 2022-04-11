@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I'm probably working for [this bunch](https://github.com/kohofinancial), clicking some merge buttons.
+It's Monday! I might be tweaking my [Slack workspace analyzer action](https://github.com/bewuethr/slack-analyzer).
 
-Weather in Toronto: partly cloudy, at +6°C.
+Weather in Toronto: overcast, at +6°C.
