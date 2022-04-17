@@ -2,4 +2,4 @@
 
 It's Sunday! I'm probably sleeping.
 
-Weather in Toronto: overcast, at +1°C.
+Weather in Toronto: overcast, at +0°C.
