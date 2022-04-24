@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! I might be reading a [book](https://www.goodreads.com/review/list/37130358-benjamin?ref=nav_mybooks&shelf=currently-reading).
+It's Sunday! I'm probably sleeping.
 
 Weather in Toronto: unknown location; please try ~43.6529206,-79.3849007, at .
