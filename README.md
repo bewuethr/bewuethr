@@ -2,4 +2,4 @@
 
 It's Monday! I'm probably sleeping.
 
-Weather in Toronto: partly cloudy, at +11°C.
+Weather in Toronto: light rain, at +8°C.
