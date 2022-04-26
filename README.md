@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I might be tweaking my [Slack workspace analyzer action](https://github.com/bewuethr/slack-analyzer).
+It's Monday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
 
-Weather in Toronto: light rain, mist, at +14°C.
+Weather in Toronto: fog, at +10°C.
