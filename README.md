@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Sunday! I'm probably sleeping.
+It's Sunday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
 
-Weather in Toronto: clear, at +7°C.
+Weather in Toronto: sunny, at +7°C.
