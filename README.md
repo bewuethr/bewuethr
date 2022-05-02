@@ -2,4 +2,4 @@
 
 It's Monday! I'm probably sleeping.
 
-Weather in Toronto: overcast, at +9°C.
+Weather in Toronto: mist, at +8°C.
