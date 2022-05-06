@@ -2,4 +2,4 @@
 
 It's Friday! I'm probably sleeping.
 
-Weather in Toronto: partly cloudy, at +11°C.
+Weather in Toronto: , at Sorry, we are running out of queries to the weather service at the moment..
