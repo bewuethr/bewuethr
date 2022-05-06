@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I'm probably sleeping.
+It's Friday! I'm probably working for [this bunch](https://github.com/kohofinancial), interviewing a potential new colleague.
 
-Weather in Toronto: <html>, at <head><title>500 Internal Server Error</title></head>.
+Weather in Toronto: partly cloudy, at +12°C.
