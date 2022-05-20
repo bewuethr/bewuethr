@@ -2,4 +2,4 @@
 
 It's Friday! I'm probably sleeping.
 
-Weather in Toronto: partly cloudy, at +12°C.
+Weather in Toronto: overcast, at +12°C.
