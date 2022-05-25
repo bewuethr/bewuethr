@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
+It's Wednesday! I'm probably sleeping.
 
-Weather in Toronto: sunny, at +16°C.
+Weather in Toronto: clear, at +13°C.
