@@ -2,4 +2,4 @@
 
 It's Tuesday! I'm probably sleeping.
 
-Weather in Toronto: overcast, at +15°C.
+Weather in Toronto: light rain, at +17°C.
