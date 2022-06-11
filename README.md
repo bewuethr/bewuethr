@@ -2,4 +2,4 @@
 
 It's Saturday! I'm probably sleeping.
 
-Weather in Toronto: overcast, at +15°C.
+Weather in Toronto: partly cloudy, at +13°C.
