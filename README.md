@@ -2,4 +2,4 @@
 
 It's Tuesday! I'm probably working for [this bunch](https://github.com/kohofinancial), overthrowing the banking establishment.
 
-Weather in Toronto: partly cloudy, at +18°C.
+Weather in Toronto: sunny, at +20°C.
