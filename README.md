@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
+It's Tuesday! I'm probably sleeping.
 
-Weather in Toronto: overcast, at +18°C.
+Weather in Toronto: <html>, at <head><title>502 Bad Gateway</title></head>.
