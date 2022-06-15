@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I might be watching [YouTube videos about relay computers](https://youtube.com/playlist?list=PL_1HsIiuOfg3QA91DUd9kGJjQoOHwlt5Q).
+It's Tuesday! I might be tweaking my [Slack workspace analyzer action](https://github.com/bewuethr/slack-analyzer).
 
-Weather in Toronto: sunny, at +20°C.
+Weather in Toronto: clear, at +21°C.
