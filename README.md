@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I might be tweaking my [Slack workspace analyzer action](https://github.com/bewuethr/slack-analyzer).
+It's Thursday! I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
 
-Weather in Toronto: partly cloudy, at +32°C.
+Weather in Toronto: sunny, at +29°C.
