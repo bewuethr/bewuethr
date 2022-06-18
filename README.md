@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! I'm probably sleeping.
+It's Saturday! I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
 
-Weather in Toronto: clear, at +13°C.
+Weather in Toronto: sunny, at +12°C.
