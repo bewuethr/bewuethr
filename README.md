@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I might be crafting a fascinating [blog post](https://www.benjaminwuethrich.dev).
+It's Tuesday! I'm probably sleeping.
 
 Weather in Toronto: light rain, at +13°C.
