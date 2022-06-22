@@ -2,4 +2,4 @@
 
 It's Wednesday! I'm probably working for [this bunch](https://github.com/kohofinancial), interviewing a potential new colleague.
 
-Weather in Toronto: mist, at +16°C.
+Weather in Toronto: partly cloudy, at +19°C.
