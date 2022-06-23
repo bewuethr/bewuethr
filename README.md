@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Wednesday! I might be crafting a fascinating [blog post](https://www.benjaminwuethrich.dev).
+It's Thursday! I'm probably sleeping.
 
 Weather in Toronto: clear, at +27°C.
