@@ -2,4 +2,4 @@
 
 It's Friday! I'm probably sleeping.
 
-Weather in Toronto: sunny, at +27°C.
+Weather in Toronto: clear, at +21°C.
