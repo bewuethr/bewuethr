@@ -2,4 +2,4 @@
 
 It's Saturday! I'm probably sleeping.
 
-Weather in Toronto: sunny, at +20°C.
+Weather in Toronto: overcast, at +23°C.
