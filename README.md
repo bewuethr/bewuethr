@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
+It's Tuesday! I might be crafting a fascinating [blog post](https://www.benjaminwuethrich.dev).
 
 Weather in Toronto: mist, at +21°C.
