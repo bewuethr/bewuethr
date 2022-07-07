@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I'm probably working for [this bunch](https://github.com/kohofinancial), interviewing a potential new colleague.
+It's Thursday! I might be reading a [book](https://www.goodreads.com/review/list/37130358-benjamin?ref=nav_mybooks&shelf=currently-reading).
 
-Weather in Toronto: sunny, at +23°C.
+Weather in Toronto: sunny, at +25°C.
