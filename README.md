@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I'm probably working for [this bunch](https://github.com/kohofinancial), making a service more micro.
+It's Friday! I'm probably working for [this bunch](https://github.com/kohofinancial), reviewing some pull requests.
 
-Weather in Toronto: clear, at +17°C.
+Weather in Toronto: sunny, at +21°C.
