@@ -2,4 +2,4 @@
 
 It's Monday! I'm probably sleeping.
 
-Weather in Toronto: sunny, at +21°C.
+Weather in Toronto: light rain, at +20°C.
