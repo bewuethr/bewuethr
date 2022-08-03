@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Wednesday! I might be watching [YouTube videos about relay computers](https://youtube.com/playlist?list=PL_1HsIiuOfg3QA91DUd9kGJjQoOHwlt5Q).
+It's Thursday! I'm probably sleeping.
 
-Weather in Toronto: unknown location; please try ~43.6529206,-79.3849007, at .
+Weather in Lucerne: who knows, wttr.in is currently down...
