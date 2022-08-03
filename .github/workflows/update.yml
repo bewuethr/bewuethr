@@ -2,11 +2,17 @@ name: Update README
 
 on:
   workflow_dispatch:
+    inputs:
+      location:
+        description: Update city for which to look up weather
+        type: string
+        required: false
+      timezone:
+        description: Update timezone to figure out time of day
+        type: string
+        required: false
   schedule:
     - cron: 5 * * * *
-
-env:
-  TZ: America/Toronto
 
 jobs:
   update:
@@ -15,7 +21,33 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v3.0.2
+
+      - name: Set location and timezone
+        id: locdata
+        env:
+          location: ${{ inputs.location }}
+          timezone: ${{ inputs.timezone }}
+        run: |
+          locfile='.github/location/locationdata.yml'
+
+          if [[ -n $location ]]; then
+              yq --inplace '.location = env(location)' "$locfile"
+          else
+              location=$(yq '.location' "$locfile")
+          fi
+
+          if [[ -n $timezone ]]; then
+              yq --inplace '.timezone = env(timezone)' "$locfile"
+          else
+              timezone=$(yq '.timezone' "$locfile")
+          fi
+
+          echo "::set-output name=location::$location"
+          echo "::set-output name=timezone::$timezone"
+
       - name: Run updater
         env:
           GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
-        run: .github/workflows/updater
+          TZ: ${{ steps.locdata.outputs.timezone }}
+          location: ${{ steps.locdata.outputs.location }}
+        run: .github/workflows/updater "$location"
