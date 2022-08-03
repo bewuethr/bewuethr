@@ -90,14 +90,25 @@ update() {
 	local weather
 	getweather weather "$location"
 
-	echo "Updating README with $weekday and $activity, weather ${weather[*]}..."
-	cat <<- EOF > README.md
-		### Hi there :wave:
+	if [[ ${weather[*]} == 'Unknown location'* ]]; then
+		echo "Updating README with $weekday and $activity, weather unknown..."
+		cat <<- EOF > README.md
+			### Hi there :wave:
 
-		It's $weekday! $activity
+			It's $weekday! $activity
 
-		Weather in $location: ${weather[0],}, at ${weather[1]}.
-	EOF
+			Weather in $location: who knows, wttr.in is currently down...
+		EOF
+	else
+		echo "Updating README with $weekday and $activity, weather ${weather[*]}..."
+		cat <<- EOF > README.md
+			### Hi there :wave:
+
+			It's $weekday! $activity
+
+			Weather in $location: ${weather[0],}, at ${weather[1]}.
+		EOF
+	fi
 
 	echo "Updating profile status with $emoji and $message..."
 	updatestatus "$emoji" "$message"
