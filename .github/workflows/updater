@@ -121,8 +121,8 @@ push() {
 
 	if [[ -n $(git status --porcelain) ]]; then
 		echo "Change detected; pushing new README..."
-		git add README.md
-		git commit --message 'Update README'
+		git add README.md .github/location/locationdata.yml
+		git commit --message 'Update README and maybe location'
 		git push
 	fi
 }
