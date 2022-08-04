@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I'm probably working for [this bunch](https://github.com/kohofinancial), interviewing a potential new colleague.
+It's Thursday! I'm probably working for [this bunch](https://github.com/kohofinancial), polishing a CLI interface.
 
-Weather in Lucerne: sunny, at +28°C.
+Weather in Lucerne: clear, at +22°C.
