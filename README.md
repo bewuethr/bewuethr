@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I might be tweaking my [Slack workspace analyzer action](https://github.com/bewuethr/slack-analyzer).
+It's Thursday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
 
-Weather in Lucerne: clear, at +19°C.
+Weather in Lucerne: sunny, at +28°C.
