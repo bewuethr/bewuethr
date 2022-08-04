@@ -2,4 +2,4 @@
 
 It's Thursday! I'm probably sleeping.
 
-Weather in Lucerne: who knows, wttr.in is currently down...
+Weather in Lucerne: sunny, at +39°C.
