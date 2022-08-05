@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I might be watching [YouTube videos about relay computers](https://youtube.com/playlist?list=PL_1HsIiuOfg3QA91DUd9kGJjQoOHwlt5Q).
+It's Friday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
 
-Weather in Lucerne: sunny, at +22°C.
+Weather in Lucerne: sunny, at +34°C.
