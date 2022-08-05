@@ -2,4 +2,4 @@
 
 It's Friday! I'm probably working for [this bunch](https://github.com/kohofinancial), figuring out who should take care of which service.
 
-Weather in Lucerne: clear, at +22°C.
+Weather in Lucerne: clear, at +19°C.
