@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Sunday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
+It's Monday! I'm probably sleeping.
 
-Weather in Lucerne: sunny, at +25°C.
+Weather in Lucerne: sunny, at +34°C.
