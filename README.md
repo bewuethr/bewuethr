@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I might be watching [YouTube videos about relay computers](https://youtube.com/playlist?list=PL_1HsIiuOfg3QA91DUd9kGJjQoOHwlt5Q).
+It's Monday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
 
-Weather in Lucerne: sunny, at +11°C.
+Weather in Lucerne: sunny, at +30°C.
