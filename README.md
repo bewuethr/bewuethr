@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
+It's Tuesday! I might be crafting a fascinating [blog post](https://www.benjaminwuethrich.dev).
 
-Weather in Lucerne: sunny, at +11°C.
+Weather in Lucerne: sunny, at +29°C.
