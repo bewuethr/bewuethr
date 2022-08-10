@@ -2,4 +2,4 @@
 
 It's Wednesday! I'm probably sleeping.
 
-Weather in Lucerne: sunny, at +30°C.
+Weather in Lucerne: sunny, at +27°C.
