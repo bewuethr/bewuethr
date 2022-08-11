@@ -2,4 +2,4 @@
 
 It's Thursday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
 
-Weather in Lucerne: sunny, at +17°C.
+Weather in Lucerne: sunny, at +32°C.
