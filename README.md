@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I'm probably working for [this bunch](https://github.com/kohofinancial), moving some Jira tickets.
+It's Thursday! I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
 
-Weather in Lucerne: clear, at +11°C.
+Weather in Lucerne: sunny, at +17°C.
