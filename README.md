@@ -2,4 +2,4 @@
 
 It's Friday! I'm probably working for [this bunch](https://github.com/kohofinancial), overthrowing the banking establishment.
 
-Weather in Lucerne: clear, at +13°C.
+Weather in Lucerne: clear, at +12°C.
