@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I'm probably working for [this bunch](https://github.com/kohofinancial), polishing a command line interface.
+It's Monday! I'm probably working for [this bunch](https://github.com/kohofinancial), interviewing a potential new colleague.
 
-Weather in Winterthur: partly cloudy, at +26°C.
+Weather in Winterthur: partly cloudy, at +24°C.
