@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I might be crafting a fascinating [blog post](https://www.benjaminwuethrich.dev).
+It's Monday! I might be fighting with Jekyll to make [this](https://swissclubto.github.io) better.
 
-Weather in Winterthur: partly cloudy, at +24°C.
+Weather in Winterthur: partly cloudy, at +18°C.
