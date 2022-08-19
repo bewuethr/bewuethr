@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I'm probably working for [this bunch](https://github.com/kohofinancial), moving some Jira tickets.
+It's Friday! I'm probably working for [this bunch](https://github.com/kohofinancial), maintaining a Git mailmap.
 
-Weather in Winterthur: rain, at +18°C.
+Weather in Winterthur: light rain shower, at +19°C.
