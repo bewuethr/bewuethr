@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Sunday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
+It's Sunday! I might be fighting with Jekyll to make [this](https://swissclubto.github.io) better.
 
-Weather in Winterthur: fog, at +15°C.
+Weather in Winterthur: patches of fog, at +15°C.
