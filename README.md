@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I might be crafting a fascinating [blog post](https://www.benjaminwuethrich.dev).
+It's Wednesday! I'm probably sleeping.
 
-Weather in Winterthur: sunny, at +25°C.
+Weather in Winterthur: clear, at +16°C.
