@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Wednesday! I might be tweaking my [Slack workspace analyzer action](https://github.com/bewuethr/slack-analyzer).
+It's Wednesday! I might be crafting a fascinating [blog post](https://www.benjaminwuethrich.dev).
 
-Weather in Winterthur: sunny, at +27°C.
+Weather in Winterthur: sunny, at +26°C.
