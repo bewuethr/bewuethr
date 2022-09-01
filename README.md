@@ -1,5 +1,3 @@
 ### Hi there :wave:
 
-It's Friday! I'm probably sleeping.
-
-Weather in Winterthur: clear, at +17°C.
+I'm on holiday! Automated profile updates are suspended during that time (because they can't handle me not working...). Imagine I'm on a warm beach somewhere.
