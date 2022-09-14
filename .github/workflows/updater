@@ -57,6 +57,7 @@ updatestatus() {
 }
 
 update() {
+	set -x
 	local location=$1
 	local holiday=$2
 	local weekday hour
@@ -139,6 +140,7 @@ update() {
 	# 	echo "Updating profile status with $emoji and $status..." >&2
 	# 	updatestatus "$emoji" "$status"
 	# fi
+	set +x
 }
 
 push() {
