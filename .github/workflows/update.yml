@@ -11,6 +11,10 @@ on:
         description: Update timezone to figure out time of day
         type: string
         required: false
+      holiday:
+        description: Enable holiday mode
+        type: boolean
+        required: false
   schedule:
     - cron: 5 * * * *
 
@@ -19,6 +23,11 @@ jobs:
     name: Update README
     runs-on: ubuntu-20.04
     steps:
+      - name: Print inputs
+        run: |
+          echo '${{ toJSON(inputs) }}'
+          exit 1
+
       - name: Check out repository
         uses: actions/checkout@v3.0.2
 
