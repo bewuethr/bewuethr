@@ -11,8 +11,8 @@ on:
         description: Update timezone to figure out time of day
         type: string
         required: false
-  # schedule:
-  #   - cron: 5 * * * *
+  schedule:
+    - cron: 5 * * * *
 
 jobs:
   update:
