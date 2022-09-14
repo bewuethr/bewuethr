@@ -11,6 +11,11 @@ on:
         description: Update timezone to figure out time of day
         type: string
         required: false
+      holiday:
+        description: Enable holiday mode
+        type: boolean
+        required: false
+        default: false
   schedule:
     - cron: 5 * * * *
 
@@ -22,32 +27,41 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v3.0.2
 
-      - name: Set location and timezone
-        id: locdata
+      - name: Set location, timezone, and holiday status
+        id: metadata
         env:
           location: ${{ inputs.location }}
           timezone: ${{ inputs.timezone }}
+          holiday: ${{ inputs.holiday }}
         run: |
-          locfile='.github/location/locationdata.yml'
+          mdfile='.github/updater/metadata.yml'
 
           if [[ -n $location ]]; then
-              yq --inplace '.location = env(location)' "$locfile"
+              yq --inplace '.location = env(location)' "$mdfile"
           else
-              location=$(yq '.location' "$locfile")
+              location=$(yq '.location' "$mdfile")
           fi
 
           if [[ -n $timezone ]]; then
-              yq --inplace '.timezone = env(timezone)' "$locfile"
+              yq --inplace '.timezone = env(timezone)' "$mdfile"
           else
-              timezone=$(yq '.timezone' "$locfile")
+              timezone=$(yq '.timezone' "$mdfile")
+          fi
+
+          if [[ -n $holiday ]]; then
+              yq --inplace '.holiday = env(holiday)' "$mdfile"
+          else
+              holiday=$(yq '.holiday' "$mdfile")
           fi
 
           echo "::set-output name=location::$location"
           echo "::set-output name=timezone::$timezone"
+          echo "::set-output name=holiday::$holiday"
 
       - name: Run updater
         env:
           GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
-          TZ: ${{ steps.locdata.outputs.timezone }}
-          location: ${{ steps.locdata.outputs.location }}
-        run: .github/workflows/updater "$location"
+          TZ: ${{ steps.metadata.outputs.timezone }}
+          location: ${{ steps.metadata.outputs.location }}
+          holiday: ${{ steps.metadata.outputs.holiday }}
+        run: .github/workflows/updater "$location" "$holiday"

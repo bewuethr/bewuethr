@@ -9,6 +9,7 @@ leisure=(
 	'reading a [book](https://www.goodreads.com/review/list/37130358-benjamin?ref=nav_mybooks&shelf=currently-reading)'
 	'tweaking my [Slack workspace analyzer action](https://github.com/bewuethr/slack-analyzer)'
 	'fighting with Jekyll to make [this](https://swissclubto.github.io) better'
+	'putting some [miles](https://www.strava.com/athletes/889963) in'
 )
 
 work=(
@@ -23,6 +24,7 @@ work=(
 	'de-flaking a test'
 	'polishing a command line interface'
 	'making a reusable workflow more reusable'
+	'lighting a fire under some Jenkins pipeline'
 )
 work=("${work[@]/#/'working for [this bunch](https://github.com/kohofinancial), '}")
 
@@ -30,16 +32,16 @@ getweather() {
 	local -n w=$1
 	local location=$2
 	# shellcheck disable=SC2034
-	readarray -t w < <(curl "wttr.in/$location?m&lang=en&format=%C\n%t\n")
+	readarray -t w < <(curl --silent "wttr.in/$location?m&lang=en&format=%C\n%t\n")
 }
 
 updatestatus() {
 	local emoji=$1
-	local message=$2
+	local status=$2
 	gh api graphql \
 		--raw-field query='
 			mutation UpdateStatus{
-			  changeUserStatus(input:{emoji:"'"$emoji"'",message:"'"$message"'"}) {
+			  changeUserStatus(input:{emoji:"'"$emoji"'",message:"'"$status"'"}) {
 			    clientMutationId
 			    status {
 			      emoji
@@ -56,32 +58,49 @@ updatestatus() {
 
 update() {
 	local location=$1
+	local holiday=$2
 	local weekday hour
 	read -r weekday hour <<< "$(date '+%A %-H')"
 
-	local activity emoji message
+	local mode activity emoji status
+
+	# Determine if I'm sleeping, working, or doing a leisure activity
 	case $hour in
-		[0-7])
+		[0-7]) mode='sleeping' ;;
+		1[89] | 2[0-3]) mode='leisure' ;;
+		*)
+			if [[ $holiday == 'true' ]]; then
+				mode='leisure'
+			else
+				case $weekday in
+					Saturday | Sunday) mode='leisure' ;;
+					*) mode='work' ;;
+				esac
+			fi
+			;;
+	esac
+
+	case $mode in
+		sleeping)
 			activity="I'm probably sleeping."
 			emoji=':sleeping:'
-			message='Snoozing'
+			status='Snoozing'
 			;;
-		1[89] | 2[0-3])
+		working)
+			activity="I'm probably ${work[RANDOM % ${#work[@]}]}."
+			emoji=':nerd_face:'
+			status='Work work work'
+			;;
+		leisure)
 			activity="I might be ${leisure[RANDOM % ${#leisure[@]}]}."
-			emoji=':man_juggling:'
-			message='Juggling'
-			;;
-		*)
 			case $weekday in
 				Saturday | Sunday)
-					activity="I might be ${leisure[RANDOM % ${#leisure[@]}]}."
 					emoji=':joystick:'
-					message='Playing'
+					status='Playing'
 					;;
 				*)
-					activity="I'm probably ${work[RANDOM % ${#work[@]}]}."
-					emoji=':nerd_face:'
-					message='Work work work'
+					emoji=':man_juggling:'
+					status='Juggling'
 					;;
 			esac
 			;;
@@ -89,6 +108,10 @@ update() {
 
 	local weather
 	getweather weather "$location"
+
+	if [[ $holiday == 'true' ]]; then
+		printf -v activity '%s %s' "And I'm on holiday! :desert_island:" "$activity"
+	fi
 
 	if [[ ${weather[*]} == 'Unknown location'* ]]; then
 		echo "Updating README with $weekday and $activity, weather unknown..."
@@ -110,8 +133,12 @@ update() {
 		EOF
 	fi
 
-	echo "Updating profile status with $emoji and $message..."
-	updatestatus "$emoji" "$message"
+	# Don't change status when I'm on holiday, it's probably a message about
+	# when I'll be back
+	if [[ $holiday != 'true' ]]; then
+		echo "Updating profile status with $emoji and $status..." >&2
+		updatestatus "$emoji" "$status"
+	fi
 }
 
 push() {
@@ -121,16 +148,17 @@ push() {
 
 	if [[ -n $(git status --porcelain) ]]; then
 		echo "Change detected; pushing new README..."
-		git add README.md .github/location/locationdata.yml
-		git commit --message 'Update README and maybe location'
+		git add README.md .github/updater/metadata.yml
+		git commit --message 'Update README and maybe metadata'
 		git push
 	fi
 }
 
 main() {
 	local location=$1
-	update "$location"
+	local holiday=$2
+	update "$location" "$holiday"
 	push
 }
 
-[[ ${BASH_SOURCE[0]} == "$0" ]] && main "$1"
+[[ ${BASH_SOURCE[0]} == "$0" ]] && main "$@"
