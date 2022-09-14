@@ -163,4 +163,4 @@ main() {
 	push
 }
 
-[[ ${BASH_SOURCE[0]} == "$0" ]] && main "$1"
+[[ ${BASH_SOURCE[0]} == "$0" ]] && main "$@"
