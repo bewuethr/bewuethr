@@ -32,7 +32,7 @@ getweather() {
 	local -n w=$1
 	local location=$2
 	# shellcheck disable=SC2034
-	readarray -t w < <(curl "wttr.in/$location?m&lang=en&format=%C\n%t\n")
+	readarray -t w < <(curl --silent "wttr.in/$location?m&lang=en&format=%C\n%t\n")
 }
 
 updatestatus() {
