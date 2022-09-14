@@ -15,6 +15,7 @@ on:
         description: Enable holiday mode
         type: boolean
         required: false
+        default: false
   schedule:
     - cron: 5 * * * *
 
