@@ -2,4 +2,4 @@
 
 It's Thursday! And I'm on holiday! :desert_island: I'm probably sleeping.
 
-Weather in Winterthur: light rain shower, at +19°C.
+Weather in Winterthur: partly cloudy, at +17°C.
