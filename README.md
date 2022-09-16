@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! And I'm on holiday! :desert_island: I might be fighting with Jekyll to make [this](https://swissclubto.github.io) better.
+It's Saturday! And I'm on holiday! :desert_island: I'm probably sleeping.
 
-Weather in Winterthur: overcast, at +15°C.
+Weather in Winterthur: overcast, at +13°C.
