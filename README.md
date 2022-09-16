@@ -2,4 +2,4 @@
 
 It's Friday! And I'm on holiday! :desert_island: I'm probably sleeping.
 
-Weather in Winterthur: overcast, at +16°C.
+Weather in Winterthur: overcast, at +15°C.
