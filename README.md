@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! And I'm on holiday! :desert_island: I might be crafting a fascinating [blog post](https://www.benjaminwuethrich.dev).
+It's Saturday! And I'm on holiday! :desert_island: I might be tweaking my [Slack workspace analyzer action](https://github.com/bewuethr/slack-analyzer).
 
-Weather in Winterthur: partly cloudy, at +13°C.
+Weather in Winterthur: partly cloudy, at +14°C.
