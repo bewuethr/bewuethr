@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Sunday! And I'm on holiday! :desert_island: I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
+It's Sunday! I might be fighting with Jekyll to make [this](https://swissclubto.github.io) better.
 
 Weather in Toronto: partly cloudy, at +21°C.
