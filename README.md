@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I'm probably sleeping.
+It's Monday! 
 
-Weather in Toronto: partly cloudy, at +21°C.
+Weather in Toronto: overcast, at +21°C.
