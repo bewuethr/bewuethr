@@ -2,4 +2,4 @@
 
 It's Monday! I'm probably sleeping.
 
-Weather in Toronto: clear, at +22°C.
+Weather in Toronto: overcast, at +21°C.
