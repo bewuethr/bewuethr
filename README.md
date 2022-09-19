@@ -2,4 +2,4 @@
 
 It's Monday! 
 
-Weather in Toronto: partly cloudy, at +21°C.
+Weather in Toronto: partly cloudy, at +26°C.
