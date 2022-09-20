@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I'm probably sleeping.
+It's Tuesday! 
 
-Weather in Toronto: clear, at +17°C.
+Weather in Toronto: sunny, at +17°C.
