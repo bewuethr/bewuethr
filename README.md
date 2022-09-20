@@ -2,4 +2,4 @@
 
 It's Tuesday! 
 
-Weather in Toronto: sunny, at +19°C.
+Weather in Toronto: partly cloudy, at +22°C.
