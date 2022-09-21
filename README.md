@@ -2,4 +2,4 @@
 
 It's Wednesday! 
 
-Weather in Toronto: clear, at +17°C.
+Weather in Toronto: partly cloudy, at +20°C.
