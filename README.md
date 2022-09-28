@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
+It's Tuesday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
 
-Weather in Toronto: light rain shower, at +14°C.
+Weather in Toronto: partly cloudy, at +13°C.
