@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I might be putting some [miles](https://www.strava.com/athletes/889963) in.
+It's Friday! I might be crafting a fascinating [blog post](https://www.benjaminwuethrich.dev).
 
 Weather in Toronto: partly cloudy, at +10°C.
