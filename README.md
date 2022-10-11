@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I might be fighting with Jekyll to make [this](https://swissclubto.github.io) better.
+It's Monday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
 
-Weather in Toronto: partly cloudy, at +14°C.
+Weather in Toronto: clear, at +16°C.
