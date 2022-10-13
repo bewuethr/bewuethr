@@ -2,4 +2,4 @@
 
 It's Wednesday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
 
-Weather in Toronto: partly cloudy, at +18°C.
+Weather in Toronto: light rain shower, at +17°C.
