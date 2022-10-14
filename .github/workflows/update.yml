@@ -54,9 +54,11 @@ jobs:
               holiday=$(yq '.holiday' "$mdfile")
           fi
 
-          echo "::set-output name=location::$location"
-          echo "::set-output name=timezone::$timezone"
-          echo "::set-output name=holiday::$holiday"
+          printf '%s\n' \
+              "location=$location" \
+              "timezone=$timezone" \
+              "holiday=$holiday" \
+              >> "$GITHUB_OUTPUT"
 
       - name: Run updater
         env:
