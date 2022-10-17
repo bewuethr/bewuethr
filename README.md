@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I'm probably working for [this bunch](https://github.com/kohofinancial), polishing a command line interface.
+It's Monday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
 
-Weather in Toronto: light rain, at +9°C.
+Weather in Toronto: partly cloudy, at +7°C.
