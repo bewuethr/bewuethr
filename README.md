@@ -2,4 +2,4 @@
 
 It's Wednesday! I'm probably sleeping.
 
-Weather in Toronto: cloudy, at +6°C.
+Weather in Toronto: light rain, at +5°C.
