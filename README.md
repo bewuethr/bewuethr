@@ -2,4 +2,4 @@
 
 It's Friday! I'm probably working for [this bunch](https://github.com/kohofinancial), figuring out who should take care of which service.
 
-Weather in Toronto: clear, at +5°C.
+Weather in Toronto: partly cloudy, at +6°C.
