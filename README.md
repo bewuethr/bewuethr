@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I might be tweaking my [Slack workspace analyzer action](https://github.com/bewuethr/slack-analyzer).
+It's Tuesday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
 
-Weather in Toronto: <html>, at <head><title>500 Internal Server Error</title></head>.
+Weather in Toronto: , at Sorry, we are running out of queries to the weather service at the moment..
