@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! I might be fighting with Jekyll to make [this](https://swissclubto.github.io) better.
+It's Sunday! I'm probably sleeping.
 
 Weather in Toronto: mist, at +6°C.
