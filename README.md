@@ -2,4 +2,4 @@
 
 It's Tuesday! I'm probably sleeping.
 
-Weather in Toronto: light rain, mist, at +11°C.
+Weather in Toronto: fog, at +11°C.
