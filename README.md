@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I'm probably working for [this bunch](https://github.com/kohofinancial), making a service more micro.
+It's Thursday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
 
 Weather in Toronto: mist, at +10°C.
