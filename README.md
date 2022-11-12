@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! I'm probably sleeping.
+It's Saturday! I might be fighting with Jekyll to make [this](https://swissclubto.github.io) better.
 
-Weather in Toronto: overcast, at +11°C.
+Weather in Toronto: sunny, at +7°C.
