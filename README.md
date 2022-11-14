@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I'm probably working for [this bunch](https://github.com/kohofinancial), moving some Jira tickets.
+It's Monday! I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
 
 Weather in Toronto: overcast, at +4°C.
