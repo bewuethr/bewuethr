@@ -2,4 +2,4 @@
 
 It's Saturday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
 
-Weather in Toronto: sunny, at -2°C.
+Weather in Toronto: sunny, at -1°C.
