@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! I might be fighting with Jekyll to make [this](https://swissclubto.github.io) better.
+It's Saturday! I might be putting some [miles](https://www.strava.com/athletes/889963) in.
 
 Weather in Toronto: overcast, at +0°C.
