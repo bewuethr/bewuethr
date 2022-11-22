@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I might be putting some [miles](https://www.strava.com/athletes/889963) in.
+It's Monday! I might be fighting with Jekyll to make [this](https://swissclubto.github.io) better.
 
-Weather in Toronto: sunny, at +7°C.
+Weather in Toronto: overcast, at +5°C.
