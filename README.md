@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Wednesday! I might be putting some [miles](https://www.strava.com/athletes/889963) in.
+It's Wednesday! I might be fighting with Jekyll to make [this](https://swissclubto.github.io) better.
 
-Weather in Toronto: clear, at +5°C.
+Weather in Toronto: mist, at +3°C.
