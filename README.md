@@ -2,4 +2,4 @@
 
 It's Thursday! I'm probably sleeping.
 
-Weather in Toronto: mist, at +3°C.
+Weather in Toronto: mist, at +4°C.
