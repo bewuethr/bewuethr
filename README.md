@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! And I'm on holiday! :desert_island: I might be putting some [miles](https://www.strava.com/athletes/889963) in.
+It's Wednesday! And I'm on holiday! :desert_island: I'm probably sleeping.
 
-Weather in Greater Antilles: partly cloudy, at +22°C.
+Weather in Greater Antilles: mist, at +22°C.
