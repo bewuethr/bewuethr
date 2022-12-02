@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! And I'm on holiday! :desert_island: I might be fighting with Jekyll to make [this](https://swissclubto.github.io) better.
+It's Friday! I'm probably working for [this bunch](https://github.com/kohofinancial), figuring out who should take care of which service.
 
-Weather in Greater Antilles: mist, at +21°C.
+Weather in Toronto: sunny, at +2°C.
