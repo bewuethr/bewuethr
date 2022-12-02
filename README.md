@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! And I'm on holiday! :desert_island: I might be tweaking my [Slack workspace analyzer action](https://github.com/bewuethr/slack-analyzer).
+It's Friday! And I'm on holiday! :desert_island: I might be fighting with Jekyll to make [this](https://swissclubto.github.io) better.
 
-Weather in Toronto: sunny, at +2°C.
+Weather in Toronto: overcast, at +4°C.
