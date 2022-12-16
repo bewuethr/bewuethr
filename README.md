@@ -2,4 +2,4 @@
 
 It's Friday! I'm probably sleeping.
 
-Weather in Toronto: , at .
+Weather in Toronto: light rain, at +3°C.
