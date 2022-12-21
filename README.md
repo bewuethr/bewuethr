@@ -2,4 +2,4 @@
 
 It's Wednesday! I'm probably working for [this bunch](https://github.com/kohofinancial), lighting a fire under some Jenkins pipeline.
 
-Weather in Toronto: sunny, at -2°C.
+Weather in Toronto: sunny, at +0°C.
