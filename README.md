@@ -2,4 +2,4 @@
 
 It's Thursday! I'm probably sleeping.
 
-Weather in Toronto: clear, at -1°C.
+Weather in Toronto: light rain, mist, at +3°C.
