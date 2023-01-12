@@ -2,4 +2,4 @@
 
 It's Thursday! I'm probably working for [this bunch](https://github.com/kohofinancial), moving some Jira tickets.
 
-Weather in Toronto: light rain, mist, at +3°C.
+Weather in Toronto: fog, at +3°C.
