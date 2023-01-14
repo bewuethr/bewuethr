@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I might be fighting with Jekyll to make [this](https://swissclubto.github.io) better.
+It's Friday! I might be watching [YouTube videos about relay computers](https://youtube.com/playlist?list=PL_1HsIiuOfg3QA91DUd9kGJjQoOHwlt5Q).
 
-Weather in Toronto: light snow, at -3°C.
+Weather in Toronto: light snow, at -4°C.
