@@ -2,4 +2,4 @@
 
 It's Thursday! I'm probably working for [this bunch](https://github.com/kohofinancial), clicking some merge buttons.
 
-Weather in Toronto: overcast, at -1°C.
+Weather in Toronto: partly cloudy, at +0°C.
