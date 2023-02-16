@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Wednesday! I might be tweaking my [Slack workspace analyzer action](https://github.com/bewuethr/slack-analyzer).
+It's Wednesday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
 
-Weather in Toronto: overcast, at +14°C.
+Weather in Toronto: overcast, at +8°C.
