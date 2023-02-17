@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I might be fighting with Jekyll to make [this](https://swissclubto.github.io) better.
+It's Friday! I'm probably sleeping.
 
 Weather in Toronto: rain, unknown precipitation, mist, at +0°C.
