@@ -2,4 +2,4 @@
 
 It's Friday! I'm probably sleeping.
 
-Weather in Toronto: freezing rain, mist, at +0°C.
+Weather in Toronto: light snow, at -3°C.
