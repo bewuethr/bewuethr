@@ -2,4 +2,4 @@
 
 It's Friday! I'm probably sleeping.
 
-Weather in Toronto: rain, unknown precipitation, mist, at +0°C.
+Weather in Toronto: freezing rain, mist, at +0°C.
