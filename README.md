@@ -2,4 +2,4 @@
 
 It's Wednesday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
 
-Weather in Toronto: light snow, at -6°C.
+Weather in Toronto: light snow, at -8°C.
