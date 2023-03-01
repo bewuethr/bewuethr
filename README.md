@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Wednesday! I'm probably working for [this bunch](https://github.com/kohofinancial), clicking some merge buttons.
+It's Wednesday! I might be putting some [miles](https://www.strava.com/athletes/889963) in.
 
 Weather in Toronto: overcast, at +1°C.
