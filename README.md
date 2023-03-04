@@ -2,4 +2,4 @@
 
 It's Saturday! I'm probably sleeping.
 
-Weather in Toronto: snow, thunderstorm in vicinity, at -1°C.
+Weather in Toronto: light snow, at +0°C.
