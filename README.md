@@ -2,4 +2,4 @@
 
 It's Monday! I'm probably working for [this bunch](https://github.com/kohofinancial), overthrowing the banking establishment.
 
-Weather in Toronto: partly cloudy, at -1°C.
+Weather in Toronto: light rain, at +1°C.
