@@ -2,4 +2,4 @@
 
 It's Monday! I'm probably sleeping.
 
-Weather in Toronto: , at .
+Weather in Toronto: light snow, at +0°C.
