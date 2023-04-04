@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I'm probably sleeping.
+It's Tuesday! I'm probably working for [this bunch](https://github.com/kohofinancial), maintaining a Git mailmap.
 
-Weather in Toronto: partly cloudy, at +7°C.
+Weather in Toronto: light rain, at +6°C.
