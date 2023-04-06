@@ -2,4 +2,4 @@
 
 It's Thursday! I'm probably sleeping.
 
-Weather in Toronto: mist, at +7°C.
+Weather in Toronto: partly cloudy, at +9°C.
