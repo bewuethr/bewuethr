@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I'm probably working for [this bunch](https://github.com/kohofinancial), moving some Jira tickets.
+It's Friday! I might be fighting with Jekyll to make [this](https://swissclubto.github.io) better.
 
-Weather in Toronto: partly cloudy, at +5°C.
+Weather in Toronto: sunny, at +7°C.
