@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Wednesday! I'm probably working for [this bunch](https://github.com/kohofinancial), overthrowing the banking establishment.
+It's Wednesday! I might be fighting with Jekyll to make [this](https://swissclubto.github.io) better.
 
 Weather in Toronto: sunny, at +21°C.
