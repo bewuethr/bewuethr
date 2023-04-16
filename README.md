@@ -2,4 +2,4 @@
 
 It's Sunday! I'm probably sleeping.
 
-Weather in Toronto: , at .
+Weather in Toronto: clear, at +12°C.
