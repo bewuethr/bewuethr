@@ -2,4 +2,4 @@
 
 It's Friday! I'm probably sleeping.
 
-Weather in Toronto: , at .
+Weather in Toronto: partly cloudy, at +8°C.
