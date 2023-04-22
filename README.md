@@ -2,4 +2,4 @@
 
 It's Saturday! I'm probably sleeping.
 
-Weather in Toronto: light rain, at +11°C.
+Weather in Toronto: light rain, at +10°C.
