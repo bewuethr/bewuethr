@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Sunday! I might be putting some [miles](https://www.strava.com/athletes/889963) in.
+It's Sunday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
 
-Weather in Toronto: sunny, at +14°C.
+Weather in Toronto: light rain, at +12°C.
