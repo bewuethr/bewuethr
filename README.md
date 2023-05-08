@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I'm probably working for [this bunch](https://github.com/kohofinancial), interviewing a potential new colleague.
+It's Monday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
 
-Weather in Toronto: sunny, at +13°C.
+Weather in Toronto: sunny, at +20°C.
