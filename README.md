@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I might be fighting with Jekyll to make [this](https://swissclubto.github.io) better.
+It's Monday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
 
-Weather in Toronto: sunny, at +20°C.
+Weather in Toronto: partly cloudy, at +16°C.
