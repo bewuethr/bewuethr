@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Wednesday! I might be watching [YouTube videos about relay computers](https://youtube.com/playlist?list=PL_1HsIiuOfg3QA91DUd9kGJjQoOHwlt5Q).
+It's Wednesday! I might be fighting with Jekyll to make [this](https://swissclubto.github.io) better.
 
-Weather in Toronto: sunny, at +7°C.
+Weather in Toronto: clear, at +8°C.
