@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! I might be reading a [book](https://www.goodreads.com/review/list/37130358-benjamin?ref=nav_mybooks&shelf=currently-reading).
+It's Saturday! I might be fighting with Jekyll to make [this](https://swissclubto.github.io) better.
 
-Weather in Toronto: light rain, mist, at +12°C.
+Weather in Toronto: partly cloudy, at +16°C.
