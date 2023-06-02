@@ -2,4 +2,4 @@
 
 It's Friday! I'm probably working for [this bunch](https://github.com/kohofinancial), overthrowing the banking establishment.
 
-Weather in Toronto: partly cloudy, at +21°C.
+Weather in Toronto: partly cloudy, at +26°C.
