@@ -2,4 +2,4 @@
 
 It's Saturday! I'm probably sleeping.
 
-Weather in Toronto: patchy rain possible, at +25°C.
+Weather in Toronto: overcast, at +25°C.
