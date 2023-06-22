@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Wednesday! I might be fighting with Jekyll to make [this](https://swissclubto.github.io) better.
+It's Thursday! I'm probably sleeping.
 
-Weather in Toronto: sunny, at +23°C.
+Weather in Toronto: clear, at +21°C.
