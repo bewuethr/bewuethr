@@ -2,4 +2,4 @@
 
 It's Wednesday! I'm probably sleeping.
 
-Weather in Toronto: , at .
+Weather in Toronto: mist, at +22°C.
