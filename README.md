@@ -2,4 +2,4 @@
 
 It's Friday! I'm probably sleeping.
 
-Weather in Toronto: haze, at +25°C.
+Weather in Toronto: mist, at +21°C.
