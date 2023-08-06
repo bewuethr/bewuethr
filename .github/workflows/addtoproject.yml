@@ -1,0 +1,16 @@
+name: Add issues to project
+
+on:
+  issues:
+    types:
+      - opened
+      - transferred
+
+jobs:
+  add-to-hobbyist-project:
+    name: Add issues to hobbyist project
+    uses: bewuethr/workflows/.github/workflows/addtoproject.yml@main
+    with:
+      project-url: https://github.com/users/bewuethr/projects/1
+    secrets:
+      github-token: ${{ secrets.ADD_TO_PROJECT_PAT }}
