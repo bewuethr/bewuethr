@@ -28,6 +28,19 @@ work=(
 )
 work=("${work[@]/#/'working for [this bunch](https://github.com/kohofinancial), '}")
 
+rcactivities=(
+	'trying to make sense of mobile phone sensors'
+	'digging into the [WebXR Device API](https://www.w3.org/TR/webxr/)'
+	'reading the [Pickaxe book](https://pragprog.com/titles/ruby5/programming-ruby-3-2-5th-edition/)'
+	'implementing [Git in Ruby](https://shop.jcoglan.com/building-git/)'
+	'flexing my [volitional muscles](https://www.recurse.com/self-directives#volitional-muscles) and doing something I did not think I would'
+)
+
+rcleisure=(
+	'exploring Brooklyn'
+	'running in Prospect Park'
+)
+
 getweather() {
 	local -n w=$1
 	local location=$2
@@ -42,7 +55,7 @@ getweather() {
 
 update() {
 	local location=$1
-	local holiday=$2
+	local special=$2
 	local weekday hour
 	read -r weekday hour <<< "$(date '+%A %-H')"
 
@@ -53,7 +66,7 @@ update() {
 		[0-7]) mode='sleeping' ;;
 		1[89] | 2[0-3]) mode='leisure' ;;
 		*)
-			if [[ $holiday == 'true' ]]; then
+			if [[ $special == 'holiday' ]]; then
 				mode='leisure'
 			else
 				case $weekday in
@@ -93,7 +106,7 @@ update() {
 	local weather
 	getweather weather "$location"
 
-	if [[ $holiday == 'true' ]]; then
+	if [[ $special == 'holiday' ]]; then
 		printf -v activity '%s %s' "And I'm on holiday! :desert_island:" "$activity"
 	fi
 
@@ -119,7 +132,7 @@ update() {
 
 	# Don't change status when I'm on holiday, it's probably a message about
 	# when I'll be back
-	if [[ $holiday == 'true' ]]; then
+	if [[ $special == 'holiday' ]]; then
 		return
 	fi
 
@@ -144,8 +157,8 @@ main() {
 	set -o errexit
 	gh ext install vilmibm/gh-user-status --pin v1.1.0
 	local location=$1
-	local holiday=$2
-	update "$location" "$holiday"
+	local special=$2
+	update "$location" "$special"
 	push
 }
 
