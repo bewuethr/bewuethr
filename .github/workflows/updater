@@ -40,27 +40,6 @@ getweather() {
 	)
 }
 
-updatestatus() {
-	local emoji=$1
-	local status=$2
-	gh api graphql \
-		--raw-field query='
-			mutation UpdateStatus{
-			  changeUserStatus(input:{emoji:"'"$emoji"'",message:"'"$status"'"}) {
-			    clientMutationId
-			    status {
-			      emoji
-			      message
-			      updatedAt
-			      user {
-			        login
-			      }
-			    }
-			  }
-			}
-		' | jq .
-}
-
 update() {
 	local location=$1
 	local holiday=$2
@@ -88,23 +67,23 @@ update() {
 	case $mode in
 		sleeping)
 			activity="I'm probably sleeping."
-			emoji=':sleeping:'
+			emoji='sleeping'
 			status='Snoozing'
 			;;
 		working)
 			activity="I'm probably ${work[RANDOM % ${#work[@]}]}."
-			emoji=':nerd_face:'
+			emoji='nerd_face'
 			status='Work work work'
 			;;
 		leisure)
 			activity="I might be ${leisure[RANDOM % ${#leisure[@]}]}."
 			case $weekday in
 				Saturday | Sunday)
-					emoji=':joystick:'
+					emoji='joystick'
 					status='Playing'
 					;;
 				*)
-					emoji=':man_juggling:'
+					emoji='man_juggling'
 					status='Juggling'
 					;;
 			esac
@@ -140,10 +119,12 @@ update() {
 
 	# Don't change status when I'm on holiday, it's probably a message about
 	# when I'll be back
-	if [[ $holiday != 'true' ]]; then
-		echo "Updating profile status with $emoji and $status..." >&2
-		updatestatus "$emoji" "$status"
+	if [[ $holiday == 'true' ]]; then
+		return
 	fi
+
+	echo "Updating profile status with $emoji and $status..." >&2
+	gh user-status set "$status" --emoji "$emoji"
 }
 
 push() {
@@ -160,6 +141,8 @@ push() {
 }
 
 main() {
+	set -o errexit
+	gh ext install vilmibm/gh-user-status --pin v1.1.0
 	local location=$1
 	local holiday=$2
 	update "$location" "$holiday"
