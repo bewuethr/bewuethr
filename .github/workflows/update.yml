@@ -11,11 +11,14 @@ on:
         description: Update timezone to figure out time of day
         type: string
         required: false
-      holiday:
-        description: Enable holiday mode
-        type: boolean
+      special:
+        description: Special circumstances
+        type: choice
+        options:
+          - none
+          - holiday
+          - recurse
         required: false
-        default: false
   schedule:
     - cron: 5 * * * *
 
@@ -35,7 +38,7 @@ jobs:
         env:
           location: ${{ inputs.location }}
           timezone: ${{ inputs.timezone }}
-          holiday: ${{ inputs.holiday }}
+          special: ${{ inputs.special }}
         run: |
           mdfile='.github/updater/metadata.yml'
 
@@ -51,16 +54,16 @@ jobs:
               timezone=$(yq '.timezone' "$mdfile")
           fi
 
-          if [[ -n $holiday ]]; then
-              yq --inplace '.holiday = env(holiday)' "$mdfile"
+          if [[ -n $special ]]; then
+              yq --inplace '.special = env(special)' "$mdfile"
           else
-              holiday=$(yq '.holiday' "$mdfile")
+              special=$(yq '.special' "$mdfile")
           fi
 
           printf '%s\n' \
               "location=$location" \
               "timezone=$timezone" \
-              "holiday=$holiday" \
+              "special=$special" \
               >> "$GITHUB_OUTPUT"
 
       - name: Run updater
@@ -69,5 +72,5 @@ jobs:
           STATUS_TOKEN: ${{ secrets.PAT_TOKEN }}
           TZ: ${{ steps.metadata.outputs.timezone }}
           location: ${{ steps.metadata.outputs.location }}
-          holiday: ${{ steps.metadata.outputs.holiday }}
-        run: .github/workflows/updater "$location" "$holiday"
+          special: ${{ steps.metadata.outputs.special }}
+        run: .github/workflows/updater "$location" "$special"
