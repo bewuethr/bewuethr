@@ -65,7 +65,8 @@ jobs:
 
       - name: Run updater
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          STATUS_TOKEN: ${{ secrets.PAT_TOKEN }}
           TZ: ${{ steps.metadata.outputs.timezone }}
           location: ${{ steps.metadata.outputs.location }}
           holiday: ${{ steps.metadata.outputs.holiday }}

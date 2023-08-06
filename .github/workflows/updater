@@ -124,7 +124,7 @@ update() {
 	fi
 
 	echo "Updating profile status with $emoji and $status..." >&2
-	gh user-status set "$status" --emoji "$emoji"
+	GITHUB_TOKEN=$STATUS_TOKEN gh user-status set "$status" --emoji "$emoji"
 }
 
 push() {
