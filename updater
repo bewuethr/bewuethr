@@ -167,7 +167,12 @@ update() {
 	fi
 
 	echo "Updating profile status with $emoji and $status..." >&2
-	GITHUB_TOKEN=$STATUS_TOKEN gh user-status set "$status" --emoji "$emoji"
+	local ghparams=(--emoji "$emoji")
+	if [[ $special != 'none' ]]; then
+		echo "Setting limited availability..." >&2
+		ghparams+=(--limited)
+	fi
+	GITHUB_TOKEN=$STATUS_TOKEN gh user-status set "$status" "${ghparams[@]}"
 }
 
 push() {
