@@ -28,17 +28,27 @@ work=(
 )
 work=("${work[@]/#/'working for [this bunch](https://github.com/kohofinancial), '}")
 
-rcactivities=(
+rcleisure=(
+	'exploring Brooklyn'
+	'[running](https://www.strava.com/athletes/889963) in Prospect Park'
+	'catching up on [Swiss Club](https://swissclubtoronto.ca/) stuff'
+	'reading a [book](https://www.goodreads.com/review/list/37130358-benjamin?ref=nav_mybooks&shelf=currently-reading)'
+)
+
+rcwork=(
 	'trying to make sense of mobile phone sensors'
 	'digging into the [WebXR Device API](https://www.w3.org/TR/webxr/)'
 	'reading the [Pickaxe book](https://pragprog.com/titles/ruby5/programming-ruby-3-2-5th-edition/)'
 	'implementing [Git in Ruby](https://shop.jcoglan.com/building-git/)'
 	'flexing my [volitional muscles](https://www.recurse.com/self-directives#volitional-muscles) and doing something I did not think I would'
+	'[learning generously](https://www.recurse.com/self-directives#learn-generously) and prepping a demo or talk'
+	'writing a [blog post](https://benjaminwuethrich.dev)'
 )
 
-rcleisure=(
-	'exploring Brooklyn'
-	'running in Prospect Park'
+rcstatus=(
+	'Working at the edge of my abilities'
+	'Building my volitional muscles'
+	'Learning generously'
 )
 
 getweather() {
@@ -84,12 +94,22 @@ update() {
 			status='Snoozing'
 			;;
 		working)
-			activity="I'm probably ${work[RANDOM % ${#work[@]}]}."
-			emoji='nerd_face'
-			status='Work work work'
+			if [[ $special == 'recurse' ]]; then
+				activity="I'm probably ${rcwork[RANDOM % ${#rcwork[@]}]}."
+				emoji='octopus'
+				status="${rcstatus[RANDOM % ${#rcstatus[@]}]}"
+			else
+				activity="I'm probably ${work[RANDOM % ${#work[@]}]}."
+				emoji='nerd_face'
+				status='Work work work'
+			fi
 			;;
 		leisure)
-			activity="I might be ${leisure[RANDOM % ${#leisure[@]}]}."
+			if [[ $special == 'recurse' ]]; then
+				activity="I might be ${rcleisure[RANDOM % ${#rcleisure[@]}]}."
+			else
+				activity="I might be ${leisure[RANDOM % ${#leisure[@]}]}."
+			fi
 			case $weekday in
 				Saturday | Sunday)
 					emoji='joystick'
@@ -106,9 +126,16 @@ update() {
 	local weather
 	getweather weather "$location"
 
-	if [[ $special == 'holiday' ]]; then
-		printf -v activity '%s %s' "And I'm on holiday! :desert_island:" "$activity"
-	fi
+	case $special in
+		'holiday')
+			printf -v activity '%s %s' "And I'm on holiday! :desert_island:" "$activity"
+			;;
+		'recurse')
+			printf -v activity '%s %s' \
+				"I'm currently attending the [Recurse Center](https://www.recurse.com/scout/click?t=90d9bc776f490dab14675dbf7b143cae)." \
+				"$activity"
+			;;
+	esac
 
 	if [[ ${weather[*]} == 'Unknown location'* ]]; then
 		echo "Updating README with $weekday and $activity, weather unknown..."
