@@ -73,4 +73,4 @@ jobs:
           TZ: ${{ steps.metadata.outputs.timezone }}
           location: ${{ steps.metadata.outputs.location }}
           special: ${{ steps.metadata.outputs.special }}
-        run: .github/workflows/updater "$location" "$special"
+        run: ./updater "$location" "$special"
