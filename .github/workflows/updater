@@ -137,25 +137,28 @@ update() {
 			;;
 	esac
 
-	if [[ ${weather[*]} == 'Unknown location'* ]]; then
-		echo "Updating README with $weekday and $activity, weather unknown..."
-		cat <<- EOF > README.md
-			### Hi there :wave:
+	case ${weather[*]} in
+		'Unknown location'* | '')
+			echo "Updating README with $weekday and $activity, weather unknown..."
+			cat <<- EOF > README.md
+				### Hi there :wave:
 
-			It's $weekday! $activity
+				It's $weekday! $activity
 
-			Weather in $location: who knows, wttr.in is currently down...
-		EOF
-	else
-		echo "Updating README with $weekday and $activity, weather ${weather[*]}..."
-		cat <<- EOF > README.md
-			### Hi there :wave:
+				Weather in $location: who knows, wttr.in is currently down...
+			EOF
+			;;
+		*)
+			echo "Updating README with $weekday and $activity, weather ${weather[*]}..."
+			cat <<- EOF > README.md
+				### Hi there :wave:
 
-			It's $weekday! $activity
+				It's $weekday! $activity
 
-			Weather in $location: ${weather[0],}, at ${weather[1]}.
-		EOF
-	fi
+				Weather in $location: ${weather[0],}, at ${weather[1]}.
+			EOF
+			;;
+	esac
 
 	# Don't change status when I'm on holiday, it's probably a message about
 	# when I'll be back
