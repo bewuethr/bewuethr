@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! I'm currently attending the [Recurse Center](https://www.recurse.com/scout/click?t=90d9bc776f490dab14675dbf7b143cae). I might be [running](https://www.strava.com/athletes/889963) in Prospect Park.
+It's Saturday! I'm currently attending the [Recurse Center](https://www.recurse.com/scout/click?t=90d9bc776f490dab14675dbf7b143cae). I might be exploring Brooklyn.
 
-Weather in Brooklyn: light rain with thunderstorm, at +26°C.
+Weather in Brooklyn: light rain, at +25°C.
