@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I'm currently attending the [Recurse Center](https://www.recurse.com/scout/click?t=90d9bc776f490dab14675dbf7b143cae). I might be reading a [book](https://www.goodreads.com/review/list/37130358-benjamin?ref=nav_mybooks&shelf=currently-reading).
+It's Tuesday! I'm currently attending the [Recurse Center](https://www.recurse.com/scout/click?t=90d9bc776f490dab14675dbf7b143cae). I'm probably sleeping.
 
 Weather in Brooklyn: thunderstorm, shower in vicinity, at +29°C.
