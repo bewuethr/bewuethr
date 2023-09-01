@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I'm currently attending the [Recurse Center](https://www.recurse.com/scout/click?t=90d9bc776f490dab14675dbf7b143cae). I might be reading a [book](https://www.goodreads.com/review/list/37130358-benjamin?ref=nav_mybooks&shelf=currently-reading).
+It's Thursday! I'm currently attending the [Recurse Center](https://www.recurse.com/scout/click?t=90d9bc776f490dab14675dbf7b143cae). I might be [running](https://www.strava.com/athletes/889963) in Prospect Park.
 
 Weather in Brooklyn: partly cloudy, at +32°C.
