@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I'm probably working for [this bunch](https://github.com/kohofinancial), overthrowing the banking establishment.
+It's Monday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
 
 Weather in Toronto: who knows, wttr.in is currently down...
