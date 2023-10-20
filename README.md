@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I'm probably working for [this bunch](https://github.com/kohofinancial), polishing a command line interface.
+It's Friday! I might be putting some [miles](https://www.strava.com/athletes/889963) in.
 
-Weather in Toronto: light rain, at +14°C.
+Weather in Toronto: overcast, at +13°C.
