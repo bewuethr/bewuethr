@@ -2,4 +2,4 @@
 
 It's Sunday! I'm probably sleeping.
 
-Weather in Toronto: partly cloudy, at +7°C.
+Weather in Toronto: clear, at +6°C.
