@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I'm probably working for [this bunch](https://github.com/kohofinancial), clicking some merge buttons.
+It's Tuesday! I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
 
 Weather in Toronto: partly cloudy, at +6°C.
