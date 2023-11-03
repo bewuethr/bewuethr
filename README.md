@@ -2,4 +2,4 @@
 
 It's Friday! I'm probably working for [this bunch](https://github.com/kohofinancial), making a reusable workflow more reusable.
 
-Weather in Toronto: partly cloudy, at +9°C.
+Weather in Toronto: sunny, at +10°C.
