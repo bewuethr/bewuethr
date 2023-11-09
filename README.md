@@ -2,4 +2,4 @@
 
 It's Thursday! I'm probably sleeping.
 
-Weather in Toronto: light rain with thunderstorm, at +5°C.
+Weather in Toronto: overcast, at +5°C.
