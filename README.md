@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Wednesday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
+It's Wednesday! I might be reading a [book](https://www.goodreads.com/review/list/37130358-benjamin?ref=nav_mybooks&shelf=currently-reading).
 
-Weather in Toronto: light rain, light unknown precipitation, at +1°C.
+Weather in Toronto: rain, mist, at +3°C.
