@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Sunday! I might be putting some [miles](https://www.strava.com/athletes/889963) in.
+It's Sunday! I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
 
-Weather in Toronto: partly cloudy, at +6°C.
+Weather in Toronto: light rain, mist, at +5°C.
