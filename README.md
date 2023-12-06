@@ -2,4 +2,4 @@
 
 It's Wednesday! I'm probably sleeping.
 
-Weather in Toronto: light rain, at +0°C.
+Weather in Toronto: light rain and snow, at +1°C.
