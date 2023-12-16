@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! And I'm on holiday! :desert_island: I'm probably sleeping.
+It's Saturday! And I'm on holiday! :desert_island: I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
 
-Weather in Toronto: partly cloudy, at +5°C.
+Weather in Toronto: partly cloudy, at +6°C.
