@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! And I'm on holiday! :desert_island: I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
+It's Monday! And I'm on holiday! :desert_island: I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
 
-Weather in Lucerne, CH: mist, at +1°C.
+Weather in Lucerne, CH: fog, at +0°C.
