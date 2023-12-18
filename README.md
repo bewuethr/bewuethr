@@ -2,4 +2,4 @@
 
 It's Monday! And I'm on holiday! :desert_island: I'm probably sleeping.
 
-Weather in Toronto: overcast, at +6°C.
+Weather in Toronto: mist, at +6°C.
