@@ -2,4 +2,4 @@
 
 It's Thursday! And I'm on holiday! :desert_island: I'm probably sleeping.
 
-Weather in Lucerne, CH: who knows, wttr.in is currently down...
+Weather in Lucerne, CH: overcast, at +4°C.
