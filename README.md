@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! And I'm on holiday! :desert_island: I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
+It's Thursday! And I'm on holiday! :desert_island: I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
 
-Weather in Lucerne, CH: overcast, at +5°C.
+Weather in Lucerne, CH: overcast, at +7°C.
