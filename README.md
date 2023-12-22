@@ -2,4 +2,4 @@
 
 It's Friday! And I'm on holiday! :desert_island: I'm probably sleeping.
 
-Weather in Lucerne, CH: light rain shower, at +10°C.
+Weather in Winterthur: overcast, at +9°C.
