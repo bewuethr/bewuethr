@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! And I'm on holiday! :desert_island: I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
+It's Tuesday! And I'm on holiday! :desert_island: I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
 
-Weather in Winterthur: overcast, at +1°C.
+Weather in Winterthur: partly cloudy, at +7°C.
