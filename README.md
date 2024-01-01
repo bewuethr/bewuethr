@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! And I'm on holiday! :desert_island: I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
+It's Monday! And I'm on holiday! :desert_island: I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
 
-Weather in Winterthur: sunny, at +4°C.
+Weather in Winterthur: who knows, wttr.in is currently down...
