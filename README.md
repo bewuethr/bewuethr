@@ -2,4 +2,4 @@
 
 It's Tuesday! I might be reading a [book](https://www.goodreads.com/review/list/37130358-benjamin?ref=nav_mybooks&shelf=currently-reading).
 
-Weather in Toronto: light rain and ice pallets, at +1°C.
+Weather in Toronto: light rain, mist, at +4°C.
