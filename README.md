@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
+It's Monday! I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
 
 Weather in Toronto: cloudy, at -9°C.
