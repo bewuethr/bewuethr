@@ -2,4 +2,4 @@
 
 It's Wednesday! I might be tweaking my [Slack workspace analyzer action](https://github.com/bewuethr/slack-analyzer).
 
-Weather in Toronto: partly cloudy, at -9°C.
+Weather in Toronto: partly cloudy, at -7°C.
