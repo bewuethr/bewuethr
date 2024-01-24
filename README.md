@@ -2,4 +2,4 @@
 
 It's Wednesday! I'm probably sleeping.
 
-Weather in Toronto: light drizzle, mist, at +1°C.
+Weather in Toronto: mist, at +1°C.
