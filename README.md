@@ -2,4 +2,4 @@
 
 It's Sunday! I might be putting some [miles](https://www.strava.com/athletes/889963) in.
 
-Weather in Toronto: overcast, at +1°C.
+Weather in Toronto: mist, at +1°C.
