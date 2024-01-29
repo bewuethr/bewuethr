@@ -2,4 +2,4 @@
 
 It's Monday! I'm probably working for [this bunch](https://github.com/kohofinancial), polishing a command line interface.
 
-Weather in Toronto: overcast, at +0°C.
+Weather in Toronto: overcast, at +1°C.
