@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
+It's Wednesday! I'm probably sleeping.
 
-Weather in Toronto: light snow, at +2°C.
+Weather in Toronto: who knows, wttr.in is currently down...
