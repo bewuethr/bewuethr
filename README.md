@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
+It's Tuesday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
 
-Weather in Toronto: overcast, at +2°C.
+Weather in Toronto: light snow, at +2°C.
