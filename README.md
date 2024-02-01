@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I'm probably sleeping.
+It's Thursday! I'm probably working for [this bunch](https://github.com/kohofinancial), making a reusable workflow more reusable.
 
-Weather in Toronto: light rain, mist, at +2°C.
+Weather in Toronto: overcast, at +3°C.
