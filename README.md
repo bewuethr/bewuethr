@@ -2,4 +2,4 @@
 
 It's Tuesday! I'm probably working for [this bunch](https://github.com/kohofinancial), polishing a command line interface.
 
-Weather in Cranbrook: light snow, at -1°C.
+Weather in Cranbrook: light snow, at +0°C.
