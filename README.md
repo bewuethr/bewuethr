@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Wednesday! I'm probably working for [this bunch](https://github.com/kohofinancial), polishing a command line interface.
+It's Wednesday! I'm probably working for [this bunch](https://github.com/kohofinancial), moving some Jira tickets.
 
-Weather in Cranbrook: mist, at +0°C.
+Weather in Cranbrook: partly cloudy, at +3°C.
