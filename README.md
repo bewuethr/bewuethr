@@ -2,4 +2,4 @@
 
 It's Wednesday! I'm probably sleeping.
 
-Weather in Cranbrook: fog, at +1°C.
+Weather in Cranbrook: overcast, at +0°C.
