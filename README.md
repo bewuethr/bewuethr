@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
+It's Friday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
 
 Weather in Cranbrook: clear, at -6°C.
