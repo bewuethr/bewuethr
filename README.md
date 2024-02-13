@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I'm probably sleeping.
+It's Tuesday! I'm probably working for [this bunch](https://github.com/kohofinancial), polishing a command line interface.
 
-Weather in Cranbrook: partly cloudy, at -9°C.
+Weather in Cranbrook: moderate snow, at -6°C.
