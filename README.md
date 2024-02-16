@@ -2,4 +2,4 @@
 
 It's Friday! I'm probably sleeping.
 
-Weather in Cranbrook: clear, at -14°C.
+Weather in Cranbrook: clear, at -15°C.
