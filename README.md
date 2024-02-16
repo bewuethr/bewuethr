@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I'm probably sleeping.
+It's Friday! I'm probably working for [this bunch](https://github.com/kohofinancial), de-flaking a test.
 
-Weather in Cranbrook: clear, at -15°C.
+Weather in Cranbrook: sunny, at -15°C.
