@@ -2,4 +2,4 @@
 
 It's Saturday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
 
-Weather in Cranbrook: sunny, at -5°C.
+Weather in Cranbrook: who knows, wttr.in is currently down...
