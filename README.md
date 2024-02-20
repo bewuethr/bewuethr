@@ -2,4 +2,4 @@
 
 It's Tuesday! I'm probably sleeping.
 
-Weather in Cranbrook: light snow, at -2°C.
+Weather in Cranbrook: overcast, at -2°C.
