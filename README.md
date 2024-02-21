@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I'm probably working for [this bunch](https://github.com/kohofinancial), polishing a command line interface.
+It's Tuesday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
 
-Weather in Cranbrook: partly cloudy, at +4°C.
+Weather in Cranbrook: who knows, wttr.in is currently down...
