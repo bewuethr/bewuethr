@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I'm probably working for [this bunch](https://github.com/kohofinancial), clicking some merge buttons.
+It's Thursday! I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
 
-Weather in Cranbrook: partly cloudy, at +4°C.
+Weather in Toronto: sunny, at +7°C.
