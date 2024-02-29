@@ -2,4 +2,4 @@
 
 It's Thursday! I'm probably sleeping.
 
-Weather in Toronto: partly cloudy, at -4°C.
+Weather in Toronto: clear, at -3°C.
