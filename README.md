@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I'm probably working for [this bunch](https://github.com/kohofinancial), interviewing a potential new colleague.
+It's Friday! I'm probably working for [this bunch](https://github.com/kohofinancial), making a service more micro.
 
-Weather in Toronto: sunny, at +5°C.
+Weather in Toronto: sunny, at +6°C.
