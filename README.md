@@ -2,4 +2,4 @@
 
 It's Saturday! I'm probably sleeping.
 
-Weather in Toronto: overcast, at +7°C.
+Weather in Toronto: light rain, mist, at +8°C.
