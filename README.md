@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I'm probably working for [this bunch](https://github.com/kohofinancial), interviewing a potential new colleague.
+It's Monday! I might be watching [YouTube videos about relay computers](https://youtube.com/playlist?list=PL_1HsIiuOfg3QA91DUd9kGJjQoOHwlt5Q).
 
 Weather in Toronto: partly cloudy, at +7°C.
