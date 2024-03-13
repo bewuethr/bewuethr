@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I might be putting some [miles](https://www.strava.com/athletes/889963) in.
+It's Wednesday! I'm probably sleeping.
 
-Weather in Toronto: partly cloudy, at +8°C.
+Weather in Toronto: overcast, at +7°C.
