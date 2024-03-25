@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I'm probably working for [this bunch](https://github.com/kohofinancial), making a reusable workflow more reusable.
+It's Monday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
 
-Weather in Toronto: sunny, at +5°C.
+Weather in Toronto: partly cloudy, at +7°C.
