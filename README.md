@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
+It's Monday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
 
 Weather in Toronto: clear , at +5°C.
