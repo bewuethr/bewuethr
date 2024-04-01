@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Sunday! I might be tweaking my [Slack workspace analyzer action](https://github.com/bewuethr/slack-analyzer).
+It's Sunday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
 
-Weather in Toronto: sunny, at +7°C.
+Weather in Toronto: partly cloudy, at +7°C.
