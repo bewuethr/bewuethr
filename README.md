@@ -2,4 +2,4 @@
 
 It's Wednesday! I'm probably sleeping.
 
-Weather in Toronto: partly cloudy, at +12°C.
+Weather in Toronto: patchy rain nearby, at +11°C.
