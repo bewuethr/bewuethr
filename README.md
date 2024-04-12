@@ -2,4 +2,4 @@
 
 It's Friday! I'm probably sleeping.
 
-Weather in Toronto: mist, at +11°C.
+Weather in Toronto: light rain, mist, at +11°C.
