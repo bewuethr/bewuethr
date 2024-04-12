@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
+It's Thursday! I might be putting some [miles](https://www.strava.com/athletes/889963) in.
 
-Weather in Toronto: mist, at +11°C.
+Weather in Toronto: light rain, mist, at +12°C.
