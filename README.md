@@ -2,4 +2,4 @@
 
 It's Monday! I'm probably sleeping.
 
-Weather in Toronto: clear, at +7°C.
+Weather in Toronto: clear, at +8°C.
