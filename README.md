@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I'm probably working for [this bunch](https://github.com/kohofinancial), lighting a fire under some Jenkins pipeline.
+It's Tuesday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
 
-Weather in Toronto: who knows, wttr.in is currently down...
+Weather in Toronto: sunny, at +12°C.
