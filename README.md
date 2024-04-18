@@ -2,4 +2,4 @@
 
 It's Thursday! I'm probably sleeping.
 
-Weather in Toronto: overcast, at +13°C.
+Weather in Toronto: mist, at +10°C.
