@@ -2,4 +2,4 @@
 
 It's Friday! I'm probably working for [this bunch](https://github.com/kohofinancial), making a service more micro.
 
-Weather in Toronto: overcast, at +16°C.
+Weather in Toronto: overcast, at +12°C.
