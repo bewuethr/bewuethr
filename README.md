@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I'm probably sleeping.
+It's Monday! I'm probably working for [this bunch](https://github.com/kohofinancial), clicking some merge buttons.
 
-Weather in Toronto: light rain, at +13°C.
+Weather in Toronto: overcast, at +10°C.
