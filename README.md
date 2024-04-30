@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
+It's Tuesday! I'm probably sleeping.
 
-Weather in Toronto: sunny, at +9°C.
+Weather in Toronto: overcast, at +11°C.
