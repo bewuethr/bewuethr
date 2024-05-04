@@ -2,4 +2,4 @@
 
 It's Saturday! I'm probably sleeping.
 
-Weather in Toronto: overcast, at +14°C.
+Weather in Toronto: who knows, wttr.in is currently down...
