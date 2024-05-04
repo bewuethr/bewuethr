@@ -2,4 +2,4 @@
 
 It's Saturday! I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
 
-Weather in Toronto: overcast, at +16°C.
+Weather in Toronto: sunny, at +14°C.
