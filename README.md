@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Sunday! I might be reading a [book](https://www.goodreads.com/review/list/37130358-benjamin?ref=nav_mybooks&shelf=currently-reading).
+It's Sunday! I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
 
-Weather in Toronto: light drizzle, at +11°C.
+Weather in Toronto: light rain, mist, at +11°C.
