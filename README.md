@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I'm probably working for [this bunch](https://github.com/kohofinancial), reviewing some pull requests.
+It's Monday! I'm probably working for [this bunch](https://github.com/kohofinancial), figuring out who should take care of which service.
 
-Weather in Toronto: overcast, at +12°C.
+Weather in Toronto: partly cloudy, at +15°C.
