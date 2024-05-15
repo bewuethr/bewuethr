@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
+It's Wednesday! I'm probably sleeping.
 
-Weather in Toronto: partly cloudy, at +18°C.
+Weather in Toronto: partly cloudy, at +13°C.
