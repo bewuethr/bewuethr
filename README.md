@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
+It's Monday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
 
-Weather in Victoria, BC: light drizzle, at +9°C.
+Weather in Victoria, BC: overcast, at +14°C.
