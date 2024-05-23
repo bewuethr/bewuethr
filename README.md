@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Wednesday! I might be putting some [miles](https://www.strava.com/athletes/889963) in.
+It's Wednesday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
 
-Weather in Toronto: partly cloudy, at +22°C.
+Weather in Toronto: sunny, at +20°C.
