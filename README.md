@@ -2,4 +2,4 @@
 
 It's Friday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
 
-Weather in Toronto: sunny, at +22°C.
+Weather in Toronto: clear, at +16°C.
