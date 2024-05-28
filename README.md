@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I might be putting some [miles](https://www.strava.com/athletes/889963) in.
+It's Monday! I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
 
-Weather in Toronto: who knows, wttr.in is currently down...
+Weather in Toronto: overcast, at +20°C.
