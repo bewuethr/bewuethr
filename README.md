@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Sunday! I might be tweaking my [Slack workspace analyzer action](https://github.com/bewuethr/slack-analyzer).
+It's Sunday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
 
-Weather in Toronto: sunny, at +16°C.
+Weather in Toronto: clear, at +16°C.
