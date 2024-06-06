@@ -2,4 +2,4 @@
 
 It's Thursday! I'm probably sleeping.
 
-Weather in Toronto: sunny, at +25°C.
+Weather in Toronto: clear, at +19°C.
