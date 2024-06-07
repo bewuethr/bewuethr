@@ -2,4 +2,4 @@
 
 It's Friday! I'm probably sleeping.
 
-Weather in Toronto: overcast, at +18°C.
+Weather in Toronto: overcast, at +17°C.
