@@ -2,4 +2,4 @@
 
 It's Wednesday! I'm probably sleeping.
 
-Weather in Toronto: clear, at +13°C.
+Weather in Toronto: overcast, at +14°C.
