@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I might be watching [YouTube videos about relay computers](https://youtube.com/playlist?list=PL_1HsIiuOfg3QA91DUd9kGJjQoOHwlt5Q).
+It's Saturday! I'm probably sleeping.
 
-Weather in Toronto: sunny, at +20°C.
+Weather in Toronto: clear, at +18°C.
