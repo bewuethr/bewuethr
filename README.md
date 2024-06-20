@@ -2,4 +2,4 @@
 
 It's Thursday! I'm probably sleeping.
 
-Weather in Toronto: patchy light rain in area with thunder, at +26°C.
+Weather in Toronto: clear, at +23°C.
