@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
+It's Saturday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
 
-Weather in Toronto: partly cloudy, at +21°C.
+Weather in Toronto: partly cloudy, at +23°C.
