@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Sunday! I'm probably sleeping.
+It's Sunday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
 
-Weather in Toronto: clear, at +22°C.
+Weather in Toronto: sunny, at +20°C.
