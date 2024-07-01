@@ -2,4 +2,4 @@
 
 It's Monday! I'm probably sleeping.
 
-Weather in Toronto: partly cloudy, at +16°C.
+Weather in Toronto: clear, at +13°C.
