@@ -2,4 +2,4 @@
 
 It's Friday! I'm probably sleeping.
 
-Weather in Toronto: partly cloudy, at +23°C.
+Weather in Toronto: haze, at +24°C.
