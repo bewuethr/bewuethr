@@ -2,4 +2,4 @@
 
 It's Sunday! I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
 
-Weather in Toronto: sunny, at +21°C.
+Weather in Toronto: sunny, at +23°C.
