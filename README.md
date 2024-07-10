@@ -2,4 +2,4 @@
 
 It's Wednesday! I'm probably sleeping.
 
-Weather in Toronto: overcast, at +25°C.
+Weather in Toronto: heavy rain, at +21°C.
