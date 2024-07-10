@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Wednesday! I'm probably working for [this bunch](https://github.com/kohofinancial), overthrowing the banking establishment.
+It's Wednesday! I might be tweaking my [Slack workspace analyzer action](https://github.com/bewuethr/slack-analyzer).
 
 Weather in Toronto: light rain, mist, at +21°C.
