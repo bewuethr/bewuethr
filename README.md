@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I might be putting some [miles](https://www.strava.com/athletes/889963) in.
+It's Saturday! I'm probably sleeping.
 
 Weather in Toronto: who knows, wttr.in is currently down...
