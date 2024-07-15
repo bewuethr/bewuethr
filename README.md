@@ -2,4 +2,4 @@
 
 It's Monday! I'm probably sleeping.
 
-Weather in Toronto: patchy rain nearby, at +22°C.
+Weather in Toronto: mist, at +22°C.
