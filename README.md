@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Wednesday! I'm probably working for [this bunch](https://github.com/kohofinancial), moving some Jira tickets.
+It's Wednesday! I'm probably working for [this bunch](https://github.com/kohofinancial), making a service more micro.
 
 Weather in Toronto: partly cloudy, at +23°C.
