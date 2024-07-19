@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I'm probably working for [this bunch](https://github.com/kohofinancial), polishing a command line interface.
+It's Friday! I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
 
-Weather in Toronto: sunny, at +21°C.
+Weather in Toronto: haze, at +23°C.
