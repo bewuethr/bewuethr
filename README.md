@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
+It's Saturday! I might be putting some [miles](https://www.strava.com/athletes/889963) in.
 
-Weather in Toronto: clear, at +18°C.
+Weather in Toronto: sunny, at +20°C.
