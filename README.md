@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
+It's Tuesday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
 
-Weather in Toronto: patchy rain nearby, at +27°C.
+Weather in Toronto: light rain shower, at +25°C.
