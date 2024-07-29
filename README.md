@@ -2,4 +2,4 @@
 
 It's Monday! And I'm on holiday! :desert_island: I might be watching [YouTube videos about relay computers](https://youtube.com/playlist?list=PL_1HsIiuOfg3QA91DUd9kGJjQoOHwlt5Q).
 
-Weather in Toronto: clear , at +20°C.
+Weather in Toronto: sunny, at +23°C.
