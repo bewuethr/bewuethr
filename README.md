@@ -2,4 +2,4 @@
 
 It's Monday! And I'm on holiday! :desert_island: I'm probably sleeping.
 
-Weather in Toronto: clear , at +24°C.
+Weather in Toronto: clear , at +22°C.
