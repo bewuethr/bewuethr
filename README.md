@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! And I'm on holiday! :desert_island: I'm probably sleeping.
+It's Thursday! And I'm on holiday! :desert_island: I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
 
-Weather in Toronto: clear , at +23°C.
+Weather in Toronto: sunny, at +23°C.
