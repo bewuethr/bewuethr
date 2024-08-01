@@ -2,4 +2,4 @@
 
 It's Thursday! And I'm on holiday! :desert_island: I might be putting some [miles](https://www.strava.com/athletes/889963) in.
 
-Weather in Toronto: sunny, at +27°C.
+Weather in Toronto: partly cloudy , at +29°C.
