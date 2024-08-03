@@ -2,4 +2,4 @@
 
 It's Saturday! And I'm on holiday! :desert_island: I'm probably sleeping.
 
-Weather in Victoria BC: clear , at +14°C.
+Weather in Victoria BC: sunny, at +15°C.
