@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Sunday! And I'm on holiday! :desert_island: I'm probably sleeping.
+It's Sunday! And I'm on holiday! :desert_island: I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
 
 Weather in Victoria BC: sunny, at +14°C.
