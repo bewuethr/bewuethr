@@ -2,4 +2,4 @@
 
 It's Sunday! I might be tweaking my [Slack workspace analyzer action](https://github.com/bewuethr/slack-analyzer).
 
-Weather in Victoria BC: who knows, wttr.in is currently down...
+Weather in Victoria BC: patchy rain nearby, at +17°C.
