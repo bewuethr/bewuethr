@@ -2,4 +2,4 @@
 
 It's Tuesday! I'm probably sleeping.
 
-Weather in Victoria BC: cloudy , at +15°C.
+Weather in Victoria BC: patchy rain nearby, at +14°C.
