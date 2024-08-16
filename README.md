@@ -2,4 +2,4 @@
 
 It's Friday! I'm probably working for [this bunch](https://github.com/kohofinancial), interviewing a potential new colleague.
 
-Weather in Victoria BC: partly cloudy, at +14°C.
+Weather in Victoria BC: partly cloudy, at +15°C.
