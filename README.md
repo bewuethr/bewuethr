@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I'm probably sleeping.
+It's Friday! I'm probably working for [this bunch](https://github.com/kohofinancial), de-flaking a test.
 
-Weather in Victoria BC: sunny, at +13°C.
+Weather in Victoria BC: partly cloudy, at +14°C.
