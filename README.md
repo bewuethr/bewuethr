@@ -2,4 +2,4 @@
 
 It's Tuesday! I'm probably sleeping.
 
-Weather in Victoria BC: light rain shower, fog in vicinity, at +14°C.
+Weather in Victoria BC: clear, at +14°C.
