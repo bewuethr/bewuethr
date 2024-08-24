@@ -2,4 +2,4 @@
 
 It's Friday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
 
-Weather in Victoria BC: overcast, at +15°C.
+Weather in Victoria BC: light rain, at +13°C.
