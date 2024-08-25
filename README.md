@@ -2,4 +2,4 @@
 
 It's Saturday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
 
-Weather in Victoria BC: partly cloudy, at +17°C.
+Weather in Victoria BC: who knows, wttr.in is currently down...
