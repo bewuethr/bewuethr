@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
+It's Monday! I might be putting some [miles](https://www.strava.com/athletes/889963) in.
 
-Weather in Victoria BC: fog in vicinity, at +13°C.
+Weather in Victoria BC: partly cloudy, at +15°C.
