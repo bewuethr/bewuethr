@@ -2,4 +2,4 @@
 
 It's Tuesday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
 
-Weather in Victoria BC: cloudy , at +13°C.
+Weather in Victoria BC: clear, at +13°C.
