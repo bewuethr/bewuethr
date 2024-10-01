@@ -24,7 +24,7 @@ work=(
 	'de-flaking a test'
 	'polishing a command line interface'
 	'making a reusable workflow more reusable'
-	'lighting a fire under some Jenkins pipeline'
+	'lighting a fire under some Acctions workflow'
 )
 work=("${work[@]/#/'working for [this bunch](https://github.com/kohofinancial), '}")
 
