@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
+It's Friday! I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
 
 Weather in Victoria BC: light rain, mist, at +11°C.
