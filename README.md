@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I might be putting some [miles](https://www.strava.com/athletes/889963) in.
+It's Friday! I might be reading a [book](https://www.goodreads.com/review/list/37130358-benjamin?ref=nav_mybooks&shelf=currently-reading).
 
-Weather in Victoria BC: clear, at +10°C.
+Weather in Victoria BC: clear, at +9°C.
