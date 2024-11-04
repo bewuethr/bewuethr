@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! And I'm on holiday! :desert_island: I'm probably sleeping.
+It's Monday! And I'm on holiday! :desert_island: I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
 
-Weather in Calgary: clear, at -3°C.
+Weather in Calgary: partly cloudy, at -2°C.
