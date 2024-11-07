@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Wednesday! And I'm on holiday! :desert_island: I might be reading a [book](https://www.goodreads.com/review/list/37130358-benjamin?ref=nav_mybooks&shelf=currently-reading).
+It's Thursday! And I'm on holiday! :desert_island: I'm probably sleeping.
 
-Weather in Calgary: overcast, at +2°C.
+Weather in Calgary: clear, at +3°C.
