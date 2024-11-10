@@ -2,4 +2,4 @@
 
 It's Sunday! And I'm on holiday! :desert_island: I'm probably sleeping.
 
-Weather in Winterthur: clear, at +4°C.
+Weather in Winterthur: clear, at +3°C.
