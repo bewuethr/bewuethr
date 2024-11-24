@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Sunday! And I'm on holiday! :desert_island: I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
+It's Sunday! And I'm on holiday! :desert_island: I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
 
 Weather in Winterthur: sunny, at +4°C.
