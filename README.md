@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I'm probably working for [this bunch](https://github.com/kohofinancial), making a service more micro.
+It's Monday! I might be putting some [miles](https://www.strava.com/athletes/889963) in.
 
-Weather in Victoria BC: partly cloudy, at +7°C.
+Weather in Toronto: partly cloudy, at +1°C.
