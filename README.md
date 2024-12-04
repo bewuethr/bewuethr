@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
+It's Tuesday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
 
 Weather in Toronto: overcast, at +1°C.
