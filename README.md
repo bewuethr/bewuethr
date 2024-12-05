@@ -2,4 +2,4 @@
 
 It's Thursday! I'm probably sleeping.
 
-Weather in Toronto: partly cloudy, at +1°C.
+Weather in Toronto: light unknown precipitation, at +0°C.
