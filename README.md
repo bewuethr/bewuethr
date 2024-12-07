@@ -2,4 +2,4 @@
 
 It's Saturday! I'm probably sleeping.
 
-Weather in Toronto: overcast, at -1°C.
+Weather in Toronto: light snow, at -1°C.
