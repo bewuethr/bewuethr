@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Sunday! I might be putting some [miles](https://www.strava.com/athletes/889963) in.
+It's Sunday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
 
 Weather in Toronto: overcast, at +4°C.
