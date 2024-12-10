@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I'm probably working for [this bunch](https://github.com/kohofinancial), figuring out who should take care of which service.
+It's Tuesday! I might be putting some [miles](https://www.strava.com/athletes/889963) in.
 
 Weather in Toronto: fog, at +5°C.
