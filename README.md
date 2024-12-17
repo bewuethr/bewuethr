@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
+It's Monday! I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
 
 Weather in Toronto: light rain, mist, at +5°C.
