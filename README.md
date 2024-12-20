@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I'm probably working for [this bunch](https://github.com/kohofinancial), figuring out who should take care of which service.
+It's Thursday! I might be putting some [miles](https://www.strava.com/athletes/889963) in.
 
 Weather in Victoria, BC: partly cloudy, at +33°C.
