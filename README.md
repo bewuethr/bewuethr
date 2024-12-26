@@ -2,4 +2,4 @@
 
 It's Thursday! I'm probably sleeping.
 
-Weather in Victoria BC: moderate rain, at +7°C.
+Weather in Victoria BC: partly cloudy, at +8°C.
