@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
+It's Thursday! I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
 
 Weather in Victoria BC: clear, at +9°C.
