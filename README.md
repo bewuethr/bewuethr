@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
+It's Tuesday! I might be watching [YouTube videos about relay computers](https://youtube.com/playlist?list=PL_1HsIiuOfg3QA91DUd9kGJjQoOHwlt5Q).
 
-Weather in Victoria BC: sunny, at +7°C.
+Weather in Victoria BC: clear, at +3°C.
