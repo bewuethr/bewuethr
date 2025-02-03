@@ -2,4 +2,4 @@
 
 It's Monday! I'm probably working for [this bunch](https://github.com/kohofinancial), reviewing some pull requests.
 
-Weather in Victoria BC: light snow, at +1°C.
+Weather in Victoria BC: overcast, at -1°C.
