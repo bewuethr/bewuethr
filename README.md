@@ -2,4 +2,4 @@
 
 It's Monday! And I'm on holiday! :desert_island: I'm probably sleeping.
 
-Weather in Toronto: overcast, at -5°C.
+Weather in Toronto: light snow, at -5°C.
