@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! And I'm on holiday! :desert_island: I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
+It's Wednesday! And I'm on holiday! :desert_island: I'm probably sleeping.
 
-Weather in Guatemala City: partly cloudy, at +24°C.
+Weather in Guatemala City: mist, at +18°C.
