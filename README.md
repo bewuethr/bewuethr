@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Wednesday! And I'm on holiday! :desert_island: I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
+It's Wednesday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
 
-Weather in Guatemala City: partly cloudy, at +22°C.
+Weather in Fort Lauderdale: partly cloudy, at +24°C.
