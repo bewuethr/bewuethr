@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I'm probably working for [this bunch](https://github.com/kohofinancial), reviewing some pull requests.
+It's Friday! I'm probably working for [this bunch](https://github.com/kohofinancial), making a service more micro.
 
-Weather in Fort Lauderdale: who knows, wttr.in is currently down...
+Weather in Fort Lauderdale: partly cloudy, at +26°C.
