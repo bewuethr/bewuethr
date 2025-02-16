@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Sunday! I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
+It's Sunday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
 
-Weather in Fort Lauderdale: partly cloudy, at +24°C.
+Weather in Fort Lauderdale: partly cloudy, at +26°C.
