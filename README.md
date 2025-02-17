@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I'm probably working for [this bunch](https://github.com/kohofinancial), de-flaking a test.
+It's Monday! I'm probably working for [this bunch](https://github.com/kohofinancial), clicking some merge buttons.
 
-Weather in Fort Lauderdale: partly cloudy, at +23°C.
+Weather in Fort Lauderdale: overcast, at +21°C.
