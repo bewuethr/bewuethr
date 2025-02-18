@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I'm probably working for [this bunch](https://github.com/kohofinancial), polishing a command line interface.
+It's Tuesday! I'm probably working for [this bunch](https://github.com/kohofinancial), de-flaking a test.
 
-Weather in Fort Lauderdale: partly cloudy, at +25°C.
+Weather in Victoria BC: light rain, at +6°C.
