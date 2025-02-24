@@ -2,4 +2,4 @@
 
 It's Monday! I'm probably sleeping.
 
-Weather in Victoria BC: light rain, at +9°C.
+Weather in Victoria BC: clear, at +7°C.
