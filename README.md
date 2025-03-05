@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I'm probably working for [this bunch](https://github.com/kohofinancial), making a service more micro.
+It's Tuesday! I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
 
 Weather in Victoria BC: patchy light rain, at +9°C.
