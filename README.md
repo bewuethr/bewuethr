@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Wednesday! I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
+It's Wednesday! I might be reading a [book](https://www.goodreads.com/review/list/37130358-benjamin?ref=nav_mybooks&shelf=currently-reading).
 
-Weather in Victoria BC: light rain, at +9°C.
+Weather in Victoria BC: shower in vicinity, at +7°C.
