@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
+It's Thursday! I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
 
-Weather in Victoria BC: partly cloudy, at +8°C.
+Weather in Victoria BC: overcast, at +9°C.
