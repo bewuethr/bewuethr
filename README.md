@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
+It's Friday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
 
 Weather in Victoria BC: shower in vicinity, at +6°C.
