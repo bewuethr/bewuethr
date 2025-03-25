@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I'm probably working for [this bunch](https://github.com/kohofinancial), figuring out who should take care of which service.
+It's Monday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
 
 Weather in Victoria BC: light rain, mist, at +11°C.
