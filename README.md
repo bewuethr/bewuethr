@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
+It's Wednesday! I'm probably sleeping.
 
 Weather in Victoria BC: fog, at +11°C.
