@@ -2,4 +2,4 @@
 
 It's Saturday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
 
-Weather in Victoria BC: partly cloudy, at +9°C.
+Weather in Victoria BC: sunny, at +9°C.
