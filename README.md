@@ -2,4 +2,4 @@
 
 It's Saturday! I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
 
-Weather in Victoria BC: fog, at +12°C.
+Weather in Victoria BC: partly cloudy, at +14°C.
