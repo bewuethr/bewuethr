@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I'm probably working for [this bunch](https://github.com/kohofinancial), overthrowing the banking establishment.
+It's Thursday! I'm probably working for [this bunch](https://github.com/kohofinancial), clicking some merge buttons.
 
 Weather in Victoria BC: sunny, at +9°C.
