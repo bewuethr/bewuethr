@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
+It's Friday! I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
 
-Weather in Victoria BC: partly cloudy, at +11°C.
+Weather in Victoria BC: partly cloudy, at +14°C.
