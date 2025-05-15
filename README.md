@@ -2,4 +2,4 @@
 
 It's Thursday! I'm probably sleeping.
 
-Weather in Victoria BC: overcast, at +9°C.
+Weather in Victoria BC: who knows, wttr.in is currently down...
