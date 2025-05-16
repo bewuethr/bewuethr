@@ -2,4 +2,4 @@
 
 It's Friday! I'm probably sleeping.
 
-Weather in Victoria BC: fog, at +8°C.
+Weather in Victoria BC: light rain, at +9°C.
