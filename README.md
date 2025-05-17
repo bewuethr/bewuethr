@@ -2,4 +2,4 @@
 
 It's Saturday! I'm probably sleeping.
 
-Weather in Victoria BC: light rain, at +11°C.
+Weather in Victoria BC: moderate rain, at +11°C.
