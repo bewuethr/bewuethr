@@ -2,4 +2,4 @@
 
 It's Wednesday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
 
-Weather in Victoria BC: sunny, at +14°C.
+Weather in Victoria BC: sunny, at +17°C.
