@@ -2,4 +2,4 @@
 
 It's Thursday! I'm probably sleeping.
 
-Weather in Victoria BC: mist, at +13°C.
+Weather in Victoria BC: overcast, at +11°C.
