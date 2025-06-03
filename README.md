@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
+It's Monday! I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
 
 Weather in Huntsville ON: sunny, at +19°C.
