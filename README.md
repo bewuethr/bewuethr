@@ -2,4 +2,4 @@
 
 It's Tuesday! I'm probably sleeping.
 
-Weather in Huntsville ON: partly cloudy, at +9°C.
+Weather in Huntsville ON: who knows, wttr.in is currently down...
