@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I might be reading a [book](https://www.goodreads.com/review/list/37130358-benjamin?ref=nav_mybooks&shelf=currently-reading).
+It's Tuesday! I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
 
-Weather in Huntsville ON: sunny, at +25°C.
+Weather in Huntsville ON: partly cloudy, at +18°C.
