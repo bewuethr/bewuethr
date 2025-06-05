@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I'm probably working for [this bunch](https://github.com/kohofinancial), moving some Jira tickets.
+It's Thursday! And I'm on holiday! :desert_island: I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
 
-Weather in Huntsville ON: mist, at +15°C.
+Weather in Toronto: light rain, at +17°C.
