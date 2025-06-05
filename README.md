@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I'm probably working for [this bunch](https://github.com/kohofinancial), interviewing a potential new colleague.
+It's Thursday! I'm probably working for [this bunch](https://github.com/kohofinancial), polishing a command line interface.
 
 Weather in Huntsville ON: mist, at +15°C.
