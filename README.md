@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! And I'm on holiday! :desert_island: I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
+It's Thursday! And I'm on holiday! :desert_island: I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
 
 Weather in Toronto: overcast, at +17°C.
