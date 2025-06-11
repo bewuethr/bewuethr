@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Wednesday! And I'm on holiday! :desert_island: I'm probably sleeping.
+It's Wednesday! And I'm on holiday! :desert_island: I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
 
-Weather in Toronto: sunny, at +14°C.
+Weather in Toronto: partly cloudy, at +15°C.
