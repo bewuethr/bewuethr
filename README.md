@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! And I'm on holiday! :desert_island: I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
+It's Saturday! And I'm on holiday! :desert_island: I might be tweaking my [Slack workspace analyzer action](https://github.com/bewuethr/slack-analyzer).
 
-Weather in Toronto: overcast, at +15°C.
+Weather in Toronto: sunny, at +17°C.
