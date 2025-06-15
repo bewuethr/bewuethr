@@ -2,4 +2,4 @@
 
 It's Sunday! And I'm on holiday! :desert_island: I'm probably sleeping.
 
-Weather in Toronto: sunny, at +18°C.
+Weather in Toronto: clear, at +16°C.
