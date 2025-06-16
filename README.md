@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Sunday! And I'm on holiday! :desert_island: I might be reading a [book](https://www.goodreads.com/review/list/37130358-benjamin?ref=nav_mybooks&shelf=currently-reading).
+It's Monday! And I'm on holiday! :desert_island: I'm probably sleeping.
 
-Weather in Toronto: partly cloudy, at +19°C.
+Weather in Toronto: partly cloudy, at +17°C.
