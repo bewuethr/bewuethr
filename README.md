@@ -2,4 +2,4 @@
 
 It's Thursday! I'm probably sleeping.
 
-Weather in Victoria BC: sunny, at +16°C.
+Weather in Victoria BC: fog, at +12°C.
