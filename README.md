@@ -2,4 +2,4 @@
 
 It's Sunday! I'm probably sleeping.
 
-Weather in Victoria BC: mist, at +11°C.
+Weather in Victoria BC: fog, at +11°C.
