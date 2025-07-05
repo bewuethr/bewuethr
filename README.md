@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
+It's Saturday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
 
-Weather in Victoria BC: partly cloudy, at +13°C.
+Weather in Victoria BC: partly cloudy, at +16°C.
