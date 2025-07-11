@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I'm probably working for [this bunch](https://github.com/kohofinancial), moving some Jira tickets.
+It's Friday! I'm probably working for [this bunch](https://github.com/kohofinancial), reviewing some pull requests.
 
 Weather in Victoria BC: fog, at +14°C.
