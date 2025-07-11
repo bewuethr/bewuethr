@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
+It's Thursday! I might be reading a [book](https://www.goodreads.com/review/list/37130358-benjamin?ref=nav_mybooks&shelf=currently-reading).
 
 Weather in Victoria BC: mist, at +13°C.
