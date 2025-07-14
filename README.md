@@ -2,4 +2,4 @@
 
 It's Monday! I'm probably working for [this bunch](https://github.com/kohofinancial), interviewing a potential new colleague.
 
-Weather in Victoria BC: cloudy, at +13°C.
+Weather in Victoria BC: cloudy, at +16°C.
