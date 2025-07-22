@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I might be watching [YouTube videos about relay computers](https://youtube.com/playlist?list=PL_1HsIiuOfg3QA91DUd9kGJjQoOHwlt5Q).
+It's Monday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
 
 Weather in Victoria BC: sunny, at +17°C.
