@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
+It's Friday! I'm probably sleeping.
 
-Weather in Victoria BC: partly cloudy, at +18°C.
+Weather in Victoria BC: clear, at +13°C.
