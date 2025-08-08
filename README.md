@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I'm probably working for [this bunch](https://github.com/kohofinancial), lighting a fire under some Acctions workflow.
+It's Thursday! I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
 
 Weather in Victoria BC: partly cloudy, at +16°C.
