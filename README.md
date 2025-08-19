@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
+It's Monday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
 
 Weather in Victoria BC: partly cloudy, at +17°C.
