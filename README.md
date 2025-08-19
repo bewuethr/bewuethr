@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
+It's Tuesday! I'm probably sleeping.
 
-Weather in Victoria BC: partly cloudy, at +17°C.
+Weather in Victoria BC: cloudy, at +13°C.
