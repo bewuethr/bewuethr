@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! I might be putting some [miles](https://www.strava.com/athletes/889963) in.
+It's Saturday! I might be reading a [book](https://www.goodreads.com/review/list/37130358-benjamin?ref=nav_mybooks&shelf=currently-reading).
 
-Weather in Victoria BC: sunny, at +15°C.
+Weather in Victoria BC: sunny, at +21°C.
