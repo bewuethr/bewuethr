@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
+It's Saturday! I might be putting some [miles](https://www.strava.com/athletes/889963) in.
 
 Weather in Victoria BC: partly cloudy, at +13°C.
