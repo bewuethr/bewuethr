@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
+It's Saturday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
 
 Weather in Victoria BC: partly cloudy, at +13°C.
