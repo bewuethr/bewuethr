@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Sunday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
+It's Monday! I'm probably sleeping.
 
-Weather in Victoria BC: partly cloudy, at +16°C.
+Weather in Victoria BC: mist, at +15°C.
