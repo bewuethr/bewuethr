@@ -2,4 +2,4 @@
 
 It's Tuesday! I'm probably sleeping.
 
-Weather in Victoria BC: who knows, wttr.in is currently down...
+Weather in Victoria BC: mist, at +14°C.
