@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! And I'm on holiday! :desert_island: I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
+It's Friday! And I'm on holiday! :desert_island: I'm probably sleeping.
 
 Weather in Victoria BC: partly cloudy, at +16°C.
