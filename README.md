@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Sunday! And I'm on holiday! :desert_island: I might be watching [YouTube videos about relay computers](https://youtube.com/playlist?list=PL_1HsIiuOfg3QA91DUd9kGJjQoOHwlt5Q).
+It's Sunday! And I'm on holiday! :desert_island: I might be putting some [miles](https://www.strava.com/athletes/889963) in.
 
 Weather in Victoria BC: partly cloudy, at +15°C.
