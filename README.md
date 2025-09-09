@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! And I'm on holiday! :desert_island: I might be reading a [book](https://www.goodreads.com/review/list/37130358-benjamin?ref=nav_mybooks&shelf=currently-reading).
+It's Tuesday! And I'm on holiday! :desert_island: I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
 
 Weather in Lucerne CH: partly cloudy, at +20°C.
