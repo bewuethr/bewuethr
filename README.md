@@ -2,4 +2,4 @@
 
 It's Wednesday! And I'm on holiday! :desert_island: I'm probably sleeping.
 
-Weather in Lucerne CH: overcast, at +17°C.
+Weather in Lucerne CH: light rain, at +14°C.
