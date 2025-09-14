@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Sunday! And I'm on holiday! :desert_island: I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
+It's Sunday! And I'm on holiday! :desert_island: I might be putting some [miles](https://www.strava.com/athletes/889963) in.
 
-Weather in Lucerne CH: light rain shower, at +14°C.
+Weather in Lucerne CH: patchy rain nearby, at +18°C.
