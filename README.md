@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! And I'm on holiday! :desert_island: I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
+It's Monday! And I'm on holiday! :desert_island: I might be reading a [book](https://www.goodreads.com/review/list/37130358-benjamin?ref=nav_mybooks&shelf=currently-reading).
 
 Weather in Winterthur: light rain, rain, at +13°C.
