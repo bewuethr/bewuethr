@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Wednesday! I'm probably working for [this bunch](https://github.com/kohofinancial), figuring out who should take care of which service.
+It's Wednesday! I'm probably working for [this bunch](https://github.com/kohofinancial), making a service more micro.
 
 Weather in Victoria BC: who knows, wttr.in is currently down...
