@@ -2,4 +2,4 @@
 
 It's Tuesday! I'm probably sleeping.
 
-Weather in Victoria BC: light rain, at +14°C.
+Weather in Victoria BC: mist, at +11°C.
