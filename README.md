@@ -2,4 +2,4 @@
 
 It's Sunday! I'm probably sleeping.
 
-Weather in Victoria BC: partly cloudy, at +13°C.
+Weather in Victoria BC: who knows, wttr.in is currently down...
