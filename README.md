@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! I might be reading a [book](https://www.goodreads.com/review/list/37130358-benjamin?ref=nav_mybooks&shelf=currently-reading).
+It's Saturday! I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
 
-Weather in Victoria BC: light rain, at +10°C.
+Weather in Victoria BC: light rain shower, at +12°C.
