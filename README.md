@@ -2,4 +2,4 @@
 
 It's Monday! I'm probably sleeping.
 
-Weather in Victoria BC: partly cloudy, at +9°C.
+Weather in Victoria BC: clear, at +10°C.
