@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I might be tweaking my [Slack workspace analyzer action](https://github.com/bewuethr/slack-analyzer).
+It's Thursday! I might be putting some [miles](https://www.strava.com/athletes/889963) in.
 
-Weather in Victoria BC: partly cloudy, at +10°C.
+Weather in Victoria BC: overcast, at +12°C.
