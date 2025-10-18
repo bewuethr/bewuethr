@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
+It's Saturday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
 
-Weather in Victoria BC: clear, at +9°C.
+Weather in Victoria BC: overcast, at +10°C.
