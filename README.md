@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Sunday! I'm probably sleeping.
+It's Sunday! I might be putting some [miles](https://www.strava.com/athletes/889963) in.
 
-Weather in Victoria BC: overcast, at +11°C.
+Weather in Victoria BC: light rain shower, at +10°C.
