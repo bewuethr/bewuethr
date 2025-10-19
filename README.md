@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! I might be tweaking my [Slack workspace analyzer action](https://github.com/bewuethr/slack-analyzer).
+It's Sunday! I'm probably sleeping.
 
-Weather in Victoria BC: light rain, mist, at +10°C.
+Weather in Victoria BC: moderate rain, at +10°C.
