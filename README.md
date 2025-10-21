@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
+It's Monday! I might be reading a [book](https://www.goodreads.com/review/list/37130358-benjamin?ref=nav_mybooks&shelf=currently-reading).
 
-Weather in Victoria BC: partly cloudy, at +11°C.
+Weather in Victoria BC: overcast, at +11°C.
