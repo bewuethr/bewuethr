@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! I might be reading a [book](https://www.goodreads.com/review/list/37130358-benjamin?ref=nav_mybooks&shelf=currently-reading).
+It's Saturday! I might be tweaking my [Slack workspace analyzer action](https://github.com/bewuethr/slack-analyzer).
 
-Weather in Victoria BC: overcast, at +10°C.
+Weather in Victoria BC: partly cloudy, at +10°C.
