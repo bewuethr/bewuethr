@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
+It's Saturday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
 
-Weather in Victoria BC: partly cloudy, at +11°C.
+Weather in Victoria BC: patchy rain nearby, at +10°C.
