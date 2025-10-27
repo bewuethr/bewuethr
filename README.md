@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I'm probably working for [this bunch](https://github.com/kohofinancial), reviewing some pull requests.
+It's Monday! And I'm on holiday! :desert_island: I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
 
-Weather in Victoria BC: fog in vicinity, at +7°C.
+Weather in San Francisco: partly cloudy, at +13°C.
