@@ -1,5 +1,4 @@
 ### Hi there :wave:
 
-It's Tuesday! And I'm on holiday! :desert_island: I'm probably sleeping.
-
-Weather in San Francisco: clear, at +14°C.
+I'm in San Francisco for GitHub Universe this week, and I haven't updated my
+automated profile updater, so... it's static this week!
