@@ -1,4 +1,5 @@
 ### Hi there :wave:
 
-I'm in San Francisco for GitHub Universe this week, and I haven't updated my
-automated profile updater, so... it's static this week!
+It's Monday! I'm probably working for [this bunch](https://github.com/kohofinancial), overthrowing the banking establishment.
+
+Weather in Victoria BC: overcast, at +8°C.
