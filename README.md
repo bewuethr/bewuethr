@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Sunday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
+It's Sunday! I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
 
-Weather in Victoria BC: overcast, at +11°C.
+Weather in Victoria BC: clear, at +11°C.
