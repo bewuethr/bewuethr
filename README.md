@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Sunday! I might be reading a [book](https://www.goodreads.com/review/list/37130358-benjamin?ref=nav_mybooks&shelf=currently-reading).
+It's Monday! I'm probably sleeping.
 
-Weather in Victoria BC: overcast, at +11°C.
+Weather in Victoria BC: moderate rain at times, at +10°C.
