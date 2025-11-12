@@ -2,4 +2,4 @@
 
 It's Tuesday! I might be tweaking my [Slack workspace analyzer action](https://github.com/bewuethr/slack-analyzer).
 
-Weather in Victoria BC: partly cloudy, at +9°C.
+Weather in Victoria BC: who knows, wttr.in is currently down...
