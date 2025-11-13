@@ -2,4 +2,4 @@
 
 It's Thursday! I'm probably sleeping.
 
-Weather in Victoria BC: patchy rain nearby, at +9°C.
+Weather in Victoria BC: mist, at +9°C.
