@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I'm probably working for [this bunch](https://github.com/kohofinancial), making a reusable workflow more reusable.
+It's Thursday! I'm probably working for [this bunch](https://github.com/kohofinancial), overthrowing the banking establishment.
 
-Weather in Victoria BC: light rain, at +10°C.
+Weather in Victoria BC: overcast, at +10°C.
