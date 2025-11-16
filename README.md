@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
+It's Saturday! I might be putting some [miles](https://www.strava.com/athletes/889963) in.
 
-Weather in Victoria BC: light drizzle, at +9°C.
+Weather in Victoria BC: fog, at +9°C.
