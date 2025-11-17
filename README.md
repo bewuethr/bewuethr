@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Sunday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
+It's Sunday! I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
 
-Weather in Victoria BC: mist, at +11°C.
+Weather in Victoria BC: fog, at +10°C.
