@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I might be putting some [miles](https://www.strava.com/athletes/889963) in.
+It's Tuesday! I'm probably sleeping.
 
-Weather in Victoria BC: clear, at +6°C.
+Weather in Victoria BC: clear, at +8°C.
