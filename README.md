@@ -2,4 +2,4 @@
 
 It's Wednesday! I'm probably sleeping.
 
-Weather in Victoria BC: clear, at +5°C.
+Weather in Victoria BC: partly cloudy, at +6°C.
