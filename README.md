@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I might be tweaking my [Slack workspace analyzer action](https://github.com/bewuethr/slack-analyzer).
+It's Tuesday! I might be reading a [book](https://www.goodreads.com/review/list/37130358-benjamin?ref=nav_mybooks&shelf=currently-reading).
 
-Weather in Victoria BC: partly cloudy, at +8°C.
+Weather in Victoria BC: who knows, wttr.in is currently down...
