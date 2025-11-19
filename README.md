@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I might be reading a [book](https://www.goodreads.com/review/list/37130358-benjamin?ref=nav_mybooks&shelf=currently-reading).
+It's Tuesday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
 
-Weather in Victoria BC: who knows, wttr.in is currently down...
+Weather in Victoria BC: partly cloudy, at +7°C.
