@@ -2,4 +2,4 @@
 
 It's Friday! I'm probably sleeping.
 
-Weather in Victoria BC: mist, at +8°C.
+Weather in Victoria BC: partly cloudy, at +8°C.
