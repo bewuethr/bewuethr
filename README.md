@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! I'm probably sleeping.
+It's Saturday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
 
-Weather in Victoria BC: patchy rain nearby, at +9°C.
+Weather in Victoria BC: light rain, at +9°C.
