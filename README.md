@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
+It's Tuesday! I'm probably sleeping.
 
-Weather in Victoria BC: clear, at +4°C.
+Weather in Victoria BC: clear, at +7°C.
