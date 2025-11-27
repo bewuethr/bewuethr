@@ -2,4 +2,4 @@
 
 It's Thursday! I'm probably sleeping.
 
-Weather in Victoria BC: patchy light rain, at +7°C.
+Weather in Victoria BC: patchy light drizzle, at +7°C.
