@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I'm probably working for [this bunch](https://github.com/kohofinancial), overthrowing the banking establishment.
+It's Friday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
 
-Weather in Victoria BC: sunny, at +9°C.
+Weather in Victoria BC: partly cloudy, at +7°C.
