@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
+It's Friday! I'm probably sleeping.
 
-Weather in Victoria BC: light drizzle, mist, at +8°C.
+Weather in Victoria BC: fog, at +7°C.
