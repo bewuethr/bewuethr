@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! And I'm on holiday! :desert_island: I might be reading a [book](https://www.goodreads.com/review/list/37130358-benjamin?ref=nav_mybooks&shelf=currently-reading).
+It's Friday! And I'm on holiday! :desert_island: I might be putting some [miles](https://www.strava.com/athletes/889963) in.
 
-Weather in Halifax: who knows, wttr.in is currently down...
+Weather in Halifax: partly cloudy, at +11°C.
