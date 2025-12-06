@@ -2,4 +2,4 @@
 
 It's Saturday! And I'm on holiday! :desert_island: I'm probably sleeping.
 
-Weather in Halifax: rain, at +9°C.
+Weather in Halifax: partly cloudy, at +7°C.
