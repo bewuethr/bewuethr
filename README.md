@@ -2,4 +2,4 @@
 
 It's Sunday! And I'm on holiday! :desert_island: I'm probably sleeping.
 
-Weather in Halifax: partly cloudy, at +5°C.
+Weather in Halifax: partly cloudy, at +6°C.
