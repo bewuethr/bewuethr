@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! And I'm on holiday! :desert_island: I might be reading a [book](https://www.goodreads.com/review/list/37130358-benjamin?ref=nav_mybooks&shelf=currently-reading).
+It's Saturday! And I'm on holiday! :desert_island: I might be putting some [miles](https://www.strava.com/athletes/889963) in.
 
-Weather in Halifax: light rain, at +8°C.
+Weather in Halifax: overcast, at +11°C.
