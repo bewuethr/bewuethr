@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! And I'm on holiday! :desert_island: I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
+It's Sunday! And I'm on holiday! :desert_island: I'm probably sleeping.
 
-Weather in Halifax: light drizzle, at +10°C.
+Weather in Halifax: who knows, wttr.in is currently down...
