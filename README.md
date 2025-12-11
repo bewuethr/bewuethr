@@ -2,4 +2,4 @@
 
 It's Thursday! And I'm on holiday! :desert_island: I'm probably sleeping.
 
-Weather in Halifax: overcast, at +8°C.
+Weather in Halifax: clear, at +7°C.
