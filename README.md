@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! And I'm on holiday! :desert_island: I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
+It's Thursday! And I'm on holiday! :desert_island: I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
 
-Weather in Halifax: partly cloudy, at +10°C.
+Weather in Halifax: cloudy, at +9°C.
