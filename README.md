@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
+It's Thursday! I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
 
-Weather in Victoria BC: light rain, at +8°C.
+Weather in Victoria BC: fog, at +8°C.
