@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I might be reading a [book](https://www.goodreads.com/review/list/37130358-benjamin?ref=nav_mybooks&shelf=currently-reading).
+It's Thursday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
 
-Weather in Victoria BC: light rain, at +9°C.
+Weather in Victoria BC: light rain, at +8°C.
