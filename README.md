@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I'm probably working for [this bunch](https://github.com/kohofinancial), clicking some merge buttons.
+It's Tuesday! I'm probably working for [this bunch](https://github.com/kohofinancial), moving some Jira tickets.
 
-Weather in Victoria BC: who knows, wttr.in is currently down...
+Weather in Victoria BC: light rain, at +8°C.
