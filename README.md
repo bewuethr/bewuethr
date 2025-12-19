@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
+It's Thursday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
 
-Weather in Victoria BC: light rain shower, mist, at +7°C.
+Weather in Victoria BC: light rain shower, at +7°C.
