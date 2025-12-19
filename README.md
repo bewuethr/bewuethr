@@ -2,4 +2,4 @@
 
 It's Friday! I'm probably sleeping.
 
-Weather in Victoria BC: partly cloudy, at +4°C.
+Weather in Victoria BC: light sleet, at +4°C.
