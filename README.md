@@ -2,4 +2,4 @@
 
 It's Sunday! I'm probably sleeping.
 
-Weather in Victoria BC: patchy light drizzle, at +6°C.
+Weather in Victoria BC: clear, at +5°C.
