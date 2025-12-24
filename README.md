@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I might be watching [YouTube videos about relay computers](https://youtube.com/playlist?list=PL_1HsIiuOfg3QA91DUd9kGJjQoOHwlt5Q).
+It's Tuesday! I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
 
-Weather in Victoria BC: partly cloudy, at +7°C.
+Weather in Victoria BC: partly cloudy, at +6°C.
