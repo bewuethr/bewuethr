@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! I might be reading a [book](https://www.goodreads.com/review/list/37130358-benjamin?ref=nav_mybooks&shelf=currently-reading).
+It's Saturday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
 
-Weather in Victoria BC: partly cloudy, at +1°C.
+Weather in Victoria BC: partly cloudy, at +2°C.
