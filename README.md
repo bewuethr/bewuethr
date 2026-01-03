@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
+It's Friday! I might be tweaking my [Slack workspace analyzer action](https://github.com/bewuethr/slack-analyzer).
 
-Weather in Victoria BC: light rain, mist, at +7°C.
+Weather in Victoria BC: light drizzle, at +7°C.
