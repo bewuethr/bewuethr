@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Sunday! I might be putting some [miles](https://www.strava.com/athletes/889963) in.
+It's Sunday! I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
 
-Weather in Victoria BC: partly cloudy, at +8°C.
+Weather in Victoria BC: partly cloudy, at +9°C.
