@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
+It's Monday! I might be reading a [book](https://www.goodreads.com/review/list/37130358-benjamin?ref=nav_mybooks&shelf=currently-reading).
 
-Weather in Victoria BC: partly cloudy, at +7°C.
+Weather in Victoria BC: clear, at +5°C.
