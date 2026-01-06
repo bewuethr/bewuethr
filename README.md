@@ -2,4 +2,4 @@
 
 It's Tuesday! I'm probably sleeping.
 
-Weather in Victoria BC: patchy rain nearby, at +5°C.
+Weather in Victoria BC: light rain, mist, at +5°C.
