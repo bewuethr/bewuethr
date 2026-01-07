@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
+It's Wednesday! I'm probably sleeping.
 
-Weather in Victoria BC: who knows, wttr.in is currently down...
+Weather in Victoria BC: patchy light rain, at +5°C.
