@@ -2,4 +2,4 @@
 
 It's Thursday! I'm probably sleeping.
 
-Weather in Victoria BC: clear, at +8°C.
+Weather in Victoria BC: overcast, at +8°C.
