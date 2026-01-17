@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I might be tweaking my [Slack workspace analyzer action](https://github.com/bewuethr/slack-analyzer).
+It's Friday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
 
-Weather in Victoria BC: clear, at +8°C.
+Weather in Victoria BC: clear, at +7°C.
