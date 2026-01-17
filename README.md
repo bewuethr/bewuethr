@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I might be putting some [miles](https://www.strava.com/athletes/889963) in.
+It's Friday! I might be tweaking my [Slack workspace analyzer action](https://github.com/bewuethr/slack-analyzer).
 
-Weather in Victoria BC: clear, at +9°C.
+Weather in Victoria BC: clear, at +8°C.
