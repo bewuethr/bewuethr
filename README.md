@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Sunday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
+It's Sunday! I might be reading a [book](https://www.goodreads.com/review/list/37130358-benjamin?ref=nav_mybooks&shelf=currently-reading).
 
-Weather in Victoria BC: partly cloudy, at +6°C.
+Weather in Victoria BC: who knows, wttr.in is currently down...
