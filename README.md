@@ -2,4 +2,4 @@
 
 It's Thursday! I'm probably sleeping.
 
-Weather in Victoria BC: clear, at +1°C.
+Weather in Victoria BC: clear, at +3°C.
