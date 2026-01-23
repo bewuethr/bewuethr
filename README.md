@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I might be reading a [book](https://www.goodreads.com/review/list/37130358-benjamin?ref=nav_mybooks&shelf=currently-reading).
+It's Friday! I'm probably sleeping.
 
-Weather in Victoria BC: partly cloudy, at +2°C.
+Weather in Victoria BC: partly cloudy, at +3°C.
