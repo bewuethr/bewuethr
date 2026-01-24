@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
+It's Friday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
 
-Weather in Victoria BC: who knows, wttr.in is currently down...
+Weather in Victoria BC: clear, at +3°C.
