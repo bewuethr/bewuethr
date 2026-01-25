@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Sunday! I might be tweaking my [Slack workspace analyzer action](https://github.com/bewuethr/slack-analyzer).
+It's Sunday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
 
-Weather in Victoria BC: clear, at +0°C.
+Weather in Victoria BC: partly cloudy, at +0°C.
