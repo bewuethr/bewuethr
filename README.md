@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
+It's Saturday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
 
 Weather in Victoria BC: clear, at +2°C.
