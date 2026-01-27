@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I'm probably working for [this bunch](https://github.com/kohofinancial), maintaining a Git mailmap.
+It's Monday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
 
 Weather in Victoria BC: who knows, wttr.in is currently down...
