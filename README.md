@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
+It's Wednesday! I'm probably sleeping.
 
-Weather in Victoria BC: patchy rain nearby, at +7°C.
+Weather in Victoria BC: clear, at +9°C.
