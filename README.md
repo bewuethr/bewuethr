@@ -2,4 +2,4 @@
 
 It's Monday! I'm probably sleeping.
 
-Weather in Victoria BC: clear, at +8°C.
+Weather in Victoria BC: who knows, wttr.in is currently down...
