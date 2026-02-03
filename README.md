@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I might be putting some [miles](https://www.strava.com/athletes/889963) in.
+It's Monday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
 
-Weather in Victoria BC: overcast, at +10°C.
+Weather in Victoria BC: mist, at +9°C.
