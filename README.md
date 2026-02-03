@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I'm probably sleeping.
+It's Tuesday! I'm probably working for [this bunch](https://github.com/kohofinancial), overthrowing the banking establishment.
 
-Weather in Victoria BC: light drizzle, mist, at +9°C.
+Weather in Victoria BC: light dust storm, mist, at +9°C.
