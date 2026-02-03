@@ -2,4 +2,4 @@
 
 It's Tuesday! I'm probably sleeping.
 
-Weather in Victoria BC: mist, at +9°C.
+Weather in Victoria BC: light drizzle, mist, at +9°C.
