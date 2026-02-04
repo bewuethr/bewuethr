@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
+It's Wednesday! I'm probably sleeping.
 
-Weather in Victoria BC: clear, at +9°C.
+Weather in Victoria BC: who knows, wttr.in is currently down...
