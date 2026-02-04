@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
+It's Tuesday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
 
-Weather in Victoria BC: overcast, at +10°C.
+Weather in Victoria BC: light rain, at +10°C.
