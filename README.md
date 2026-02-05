@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I'm probably sleeping.
+It's Thursday! I'm probably working for [this bunch](https://github.com/kohofinancial), de-flaking a test.
 
-Weather in Victoria BC: clear, at +9°C.
+Weather in Victoria BC: sunny, at +9°C.
