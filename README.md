@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
+It's Friday! I'm probably sleeping.
 
-Weather in Victoria BC: partly cloudy, at +8°C.
+Weather in Victoria BC: clear, at +6°C.
