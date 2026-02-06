@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
+It's Thursday! I might be tweaking my [Slack workspace analyzer action](https://github.com/bewuethr/slack-analyzer).
 
-Weather in Victoria BC: partly cloudy, at +11°C.
+Weather in Victoria BC: partly cloudy, at +9°C.
