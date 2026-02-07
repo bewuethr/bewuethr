@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! I might be watching [YouTube videos about relay computers](https://youtube.com/playlist?list=PL_1HsIiuOfg3QA91DUd9kGJjQoOHwlt5Q).
+It's Saturday! I might be reading a [book](https://www.goodreads.com/review/list/37130358-benjamin?ref=nav_mybooks&shelf=currently-reading).
 
-Weather in Victoria BC: moderate rain at times, at +9°C.
+Weather in Victoria BC: sunny, at +10°C.
