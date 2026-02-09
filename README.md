@@ -2,4 +2,4 @@
 
 It's Sunday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
 
-Weather in Victoria BC: partly cloudy, at +8°C.
+Weather in Victoria BC: partly cloudy, at +6°C.
