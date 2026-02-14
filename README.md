@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I'm probably working for [this bunch](https://github.com/kohofinancial), moving some Jira tickets.
+It's Friday! I might be putting some [miles](https://www.strava.com/athletes/889963) in.
 
 Weather in Victoria BC: light rain, at +6°C.
