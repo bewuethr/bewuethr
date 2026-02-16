@@ -2,4 +2,4 @@
 
 It's Monday! I'm probably sleeping.
 
-Weather in Victoria BC: patchy rain nearby, at +5°C.
+Weather in Victoria BC: patchy sleet nearby, at +4°C.
