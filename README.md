@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
+It's Monday! I might be reading a [book](https://www.goodreads.com/review/list/37130358-benjamin?ref=nav_mybooks&shelf=currently-reading).
 
-Weather in Victoria BC: partly cloudy, at +5°C.
+Weather in Victoria BC: clear, at +3°C.
