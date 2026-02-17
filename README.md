@@ -2,4 +2,4 @@
 
 It's Tuesday! I'm probably sleeping.
 
-Weather in Victoria BC: patchy light snow, at +2°C.
+Weather in Victoria BC: mist, at +2°C.
