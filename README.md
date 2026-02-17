@@ -2,4 +2,4 @@
 
 It's Tuesday! I'm probably sleeping.
 
-Weather in Victoria BC: who knows, wttr.in is currently down...
+Weather in Victoria BC: cloudy, at +3°C.
