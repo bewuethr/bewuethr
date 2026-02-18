@@ -2,4 +2,4 @@
 
 It's Wednesday! I'm probably sleeping.
 
-Weather in Victoria BC: patchy rain nearby, at +3°C.
+Weather in Victoria BC: patchy rain nearby, at +2°C.
