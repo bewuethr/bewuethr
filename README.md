@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
+It's Thursday! I might be watching [YouTube videos about relay computers](https://youtube.com/playlist?list=PL_1HsIiuOfg3QA91DUd9kGJjQoOHwlt5Q).
 
-Weather in Victoria BC: clear, at +1°C.
+Weather in Victoria BC: clear, at +0°C.
