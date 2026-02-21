@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! I might be watching [YouTube videos about relay computers](https://youtube.com/playlist?list=PL_1HsIiuOfg3QA91DUd9kGJjQoOHwlt5Q).
+It's Saturday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
 
-Weather in Victoria BC: overcast, at +7°C.
+Weather in Victoria BC: overcast, at +6°C.
