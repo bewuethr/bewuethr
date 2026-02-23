@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Sunday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
+It's Monday! I'm probably sleeping.
 
-Weather in Victoria BC: who knows, wttr.in is currently down...
+Weather in Victoria BC: patchy rain nearby, at +7°C.
