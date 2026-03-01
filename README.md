@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
+It's Saturday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
 
-Weather in Victoria BC: who knows, wttr.in is currently down...
+Weather in Victoria BC: clear, at +6°C.
