@@ -2,4 +2,4 @@
 
 It's Friday! I'm probably sleeping.
 
-Weather in Victoria BC: light rain, at +7°C.
+Weather in Victoria BC: who knows, wttr.in is currently down...
