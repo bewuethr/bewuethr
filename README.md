@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Sunday! I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
+It's Sunday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
 
-Weather in Victoria BC: patchy rain nearby, at +9°C.
+Weather in Victoria BC: shower in vicinity, at +9°C.
