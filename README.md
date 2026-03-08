@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
+It's Sunday! I'm probably sleeping.
 
-Weather in Victoria BC: light drizzle, at +10°C.
+Weather in Victoria BC: who knows, wttr.in is currently down...
