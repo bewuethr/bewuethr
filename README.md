@@ -2,4 +2,4 @@
 
 It's Wednesday! I'm probably sleeping.
 
-Weather in Victoria BC: moderate rain, at +5°C.
+Weather in Victoria BC: overcast, at +6°C.
