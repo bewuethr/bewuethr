@@ -2,4 +2,4 @@
 
 It's Wednesday! I'm probably working for [this bunch](https://github.com/kohofinancial), de-flaking a test.
 
-Weather in Victoria BC: light rain, at +6°C.
+Weather in Victoria BC: light rain, mist, at +6°C.
