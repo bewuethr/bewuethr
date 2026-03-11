@@ -2,4 +2,4 @@
 
 It's Wednesday! I'm probably sleeping.
 
-Weather in Victoria BC: moderate or heavy rain shower, at +4°C.
+Weather in Victoria BC: moderate rain, at +4°C.
