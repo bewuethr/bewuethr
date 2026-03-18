@@ -2,4 +2,4 @@
 
 It's Wednesday! I'm probably sleeping.
 
-Weather in Victoria BC: light rain, mist, at +10°C.
+Weather in Victoria BC: light drizzle, at +9°C.
