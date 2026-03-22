@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! I might be tweaking my [Slack workspace analyzer action](https://github.com/bewuethr/slack-analyzer).
+It's Saturday! I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
 
-Weather in Victoria BC: weather fetch failed: failed to make HTTP request: Get "http://127.0.0.1:5001/premium/v1/weather.ashx?key=2b505b8f72ad3b4b2d528d804cb15&q=48.429201,-123.365479&format=json&num_of_days=3&includelocation=yes&lang=en": dial tcp 127.0.0.1:5001: connect: connection refused, at .
+Weather in Victoria BC: who knows, wttr.in is currently down...
