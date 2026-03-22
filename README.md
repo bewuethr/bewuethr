@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! I might be watching [YouTube videos about relay computers](https://youtube.com/playlist?list=PL_1HsIiuOfg3QA91DUd9kGJjQoOHwlt5Q).
+It's Saturday! I might be tweaking my [Slack workspace analyzer action](https://github.com/bewuethr/slack-analyzer).
 
-Weather in Victoria BC: render failed: response missing current_condition array, at .
+Weather in Victoria BC: weather fetch failed: failed to make HTTP request: Get "http://127.0.0.1:5001/premium/v1/weather.ashx?key=2b505b8f72ad3b4b2d528d804cb15&q=48.429201,-123.365479&format=json&num_of_days=3&includelocation=yes&lang=en": dial tcp 127.0.0.1:5001: connect: connection refused, at .
