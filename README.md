@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I'm probably working for [this bunch](https://github.com/kohofinancial), figuring out who should take care of which service.
+It's Monday! I'm probably working for [this bunch](https://github.com/kohofinancial), maintaining a Git mailmap.
 
-Weather in Victoria BC: overcast, at +9°C.
+Weather in Victoria BC: sunny, at +8°C.
