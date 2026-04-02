@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I'm probably sleeping.
+It's Thursday! I'm probably working for [this bunch](https://github.com/kohofinancial), lighting a fire under some Acctions workflow.
 
-Weather in Victoria BC: partly cloudy, at +7°C.
+Weather in Victoria BC: weather data source not available, at .
