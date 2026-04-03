@@ -2,4 +2,4 @@
 
 It's Thursday! I'm probably working for [this bunch](https://github.com/kohofinancial), clicking some merge buttons.
 
-Weather in Victoria BC: partly cloudy, at +11°C.
+Weather in Victoria BC: render failed: response missing current_condition array, at .
