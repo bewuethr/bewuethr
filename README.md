@@ -2,4 +2,4 @@
 
 It's Wednesday! I'm probably working for [this bunch](https://github.com/kohofinancial), polishing a command line interface.
 
-Weather in Victoria BC: sunny, at +11°C.
+Weather in Victoria BC: sunny, at +12°C.
