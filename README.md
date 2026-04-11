@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! I'm probably sleeping.
+It's Saturday! I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
 
-Weather in Victoria BC: clear, at +10°C.
+Weather in Victoria BC: overcast, at +10°C.
