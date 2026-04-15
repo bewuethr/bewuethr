@@ -1,5 +1,3 @@
 ### Hi there :wave:
 
-It's Wednesday! I'm probably working for [this bunch](https://github.com/kohofinancial), overthrowing the banking establishment.
-
-Weather in Victoria BC: shower in vicinity, at +7°C.
+I'm in San Francisco for the DX Annual conference until Friday!
