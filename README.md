@@ -2,4 +2,4 @@
 
 It's Tuesday! I'm probably working for [this bunch](https://github.com/kohofinancial), polishing a command line interface.
 
-Weather in Victoria BC: patchy rain nearby, at +14°C.
+Weather in Victoria BC: light rain shower, at +12°C.
