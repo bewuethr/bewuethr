@@ -2,4 +2,4 @@
 
 It's Tuesday! I'm probably sleeping.
 
-Weather in Victoria BC: cloudy, at +10°C.
+Weather in Victoria BC: overcast, at +11°C.
