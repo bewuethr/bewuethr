@@ -2,4 +2,4 @@
 
 It's Monday! I'm probably working for [this bunch](https://github.com/kohofinancial), clicking some merge buttons.
 
-Weather in Victoria BC: sunny, at +23°C.
+Weather in Victoria BC: sunny, at +26°C.
