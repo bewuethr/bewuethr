@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Wednesday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
+It's Wednesday! I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
 
-Weather in Victoria BC: sunny, at +18°C.
+Weather in Victoria BC: partly cloudy, at +13°C.
