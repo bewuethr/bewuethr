@@ -2,4 +2,4 @@
 
 It's Tuesday! I'm probably working for [this bunch](https://github.com/kohofinancial), lighting a fire under some Acctions workflow.
 
-Weather in Victoria BC: partly cloudy, at +19°C.
+Weather in Victoria BC: sunny, at +22°C.
