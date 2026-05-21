@@ -2,4 +2,4 @@
 
 It's Thursday! I'm probably working for [this bunch](https://github.com/kohofinancial), de-flaking a test.
 
-Weather in Victoria BC: sunny, at +21°C.
+Weather in Victoria BC: sunny, at +16°C.
