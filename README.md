@@ -2,4 +2,4 @@
 
 It's Saturday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
 
-Weather in Victoria BC: weather data source not available, at .
+Weather in Victoria BC: sunny, at +16°C.
