@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Wednesday! And I'm on holiday! :desert_island: I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
+It's Wednesday! And I'm on holiday! :desert_island: I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
 
-Weather in Victoria BC: sunny, at +15°C.
+Weather in Victoria BC: patchy rain nearby, at +19°C.
