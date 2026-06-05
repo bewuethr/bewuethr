@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! And I'm on holiday! :desert_island: I'm probably sleeping.
+It's Friday! And I'm on holiday! :desert_island: I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
 
-Weather in Victoria BC: patchy rain nearby, at +12°C.
+Weather in Victoria BC: light drizzle, at +12°C.
