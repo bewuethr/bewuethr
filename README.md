@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Wednesday! I'm probably working for [this bunch](https://github.com/kohofinancial), de-flaking a test.
+It's Wednesday! I might be tweaking my [Slack workspace analyzer action](https://github.com/bewuethr/slack-analyzer).
 
-Weather in Victoria BC: sunny, at +18°C.
+Weather in Victoria BC: sunny, at +21°C.
