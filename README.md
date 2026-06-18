@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Wednesday! I might be tweaking my [Slack workspace analyzer action](https://github.com/bewuethr/slack-analyzer).
+It's Wednesday! I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
 
-Weather in Victoria BC: sunny, at +21°C.
+Weather in Victoria BC: sunny, at +15°C.
