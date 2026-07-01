@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! I'm probably working for [this bunch](https://github.com/kohofinancial), de-flaking a test.
+It's Tuesday! I might be putting some [miles](https://www.strava.com/athletes/889963) in.
 
-Weather in Victoria BC: partly Cloudy , at +16°C.
+Weather in Victoria BC: sunny, at +18°C.
