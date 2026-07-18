@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
+It's Saturday! I'm probably sleeping.
 
-Weather in Victoria BC: partly cloudy, at +17°C.
+Weather in Victoria BC: clear , at +16°C.
