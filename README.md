@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Sunday! I'm probably sleeping.
+It's Sunday! I might be reading a [book](https://www.goodreads.com/review/list/37130358-benjamin?ref=nav_mybooks&shelf=currently-reading).
 
-Weather in Victoria BC: mist, at +12°C.
+Weather in Victoria BC: sunny, at +11°C.
