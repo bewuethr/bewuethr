@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I'm probably sleeping.
+It's Monday! I'm probably working for [this bunch](https://github.com/kohofinancial), clicking some merge buttons.
 
-Weather in Victoria BC: sunny, at +14°C.
+Weather in Victoria BC: sunny, at +19°C.
