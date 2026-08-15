@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
+It's Friday! I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
 
-Weather in Victoria BC: sunny, at +24°C.
+Weather in Victoria BC: clear , at +17°C.
