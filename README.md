@@ -2,4 +2,4 @@
 
 It's Tuesday! I'm probably working for [this bunch](https://github.com/kohofinancial), moving some Jira tickets.
 
-Weather in Victoria BC: sunny, at +22°C.
+Weather in Victoria BC: sunny, at +25°C.
