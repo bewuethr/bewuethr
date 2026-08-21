@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I'm probably working for [this bunch](https://github.com/kohofinancial), clicking some merge buttons.
+It's Friday! I'm probably working for [this bunch](https://github.com/kohofinancial), making a service more micro.
 
-Weather in Victoria BC: weather data source not available, at .
+Weather in Victoria BC: overcast , at +29°C.
