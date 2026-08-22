@@ -2,4 +2,4 @@
 
 It's Saturday! I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
 
-Weather in Victoria BC: overcast , at +18°C.
+Weather in Victoria BC: overcast , at +17°C.
