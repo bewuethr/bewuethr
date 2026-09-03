@@ -2,4 +2,4 @@
 
 It's Thursday! I'm probably sleeping.
 
-Weather in Victoria BC: light drizzle, at +11°C.
+Weather in Victoria BC: light drizzle, at +12°C.
