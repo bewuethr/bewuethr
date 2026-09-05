@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! And I'm on holiday! :desert_island: I might be tweaking my [Slack workspace analyzer action](https://github.com/bewuethr/slack-analyzer).
+It's Saturday! And I'm on holiday! :desert_island: I'm probably sleeping.
 
-Weather in Fraser Lake: overcast , at +13°C.
+Weather in Fraser Lake: partly Cloudy , at +11°C.
