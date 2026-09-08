@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! And I'm on holiday! :desert_island: I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
+It's Tuesday! And I'm on holiday! :desert_island: I'm probably sleeping.
 
-Weather in Fraser Lake: cloudy , at +20°C.
+Weather in Fraser Lake: partly Cloudy , at +15°C.
