@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! And I'm on holiday! :desert_island: I'm probably sleeping.
+It's Friday! And I'm on holiday! :desert_island: I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
 
-Weather in Fraser Lake: patchy rain nearby, at +7°C.
+Weather in Fraser Lake: overcast , at +7°C.
