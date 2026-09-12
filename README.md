@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! And I'm on holiday! :desert_island: I'm probably sleeping.
+It's Saturday! And I'm on holiday! :desert_island: I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
 
-Weather in Fraser Lake: clear , at +6°C.
+Weather in Fraser Lake: sunny, at +5°C.
