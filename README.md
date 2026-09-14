@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I'm probably sleeping.
+It's Monday! I'm probably working for [this bunch](https://github.com/kohofinancial), reviewing some pull requests.
 
-Weather in Victoria BC: location not found: location not found, at .
+Weather in Victoria BC: overcast , at +15°C.
