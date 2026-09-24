@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Wednesday! I'm probably working for [this bunch](https://github.com/kohofinancial), clicking some merge buttons.
+It's Wednesday! I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
 
-Weather in Victoria BC: smoky haze, at +16°C.
+Weather in Victoria BC: smoky haze, at +13°C.
