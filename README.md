@@ -2,4 +2,4 @@
 
 It's Wednesday! And I'm on holiday! :desert_island: I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
 
-Weather in Winterthur: partly Cloudy , at +15°C.
+Weather in Winterthur: sunny, at +24°C.
