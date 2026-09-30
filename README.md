@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! And I'm on holiday! :desert_island: I might be polishing my [static site generator](https://github.com/bewuethr/pandoc-bash-blog).
+It's Wednesday! And I'm on holiday! :desert_island: I'm probably sleeping.
 
-Weather in Winterthur: overcast , at +20°C.
+Weather in Winterthur: overcast , at +17°C.
