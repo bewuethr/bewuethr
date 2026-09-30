@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Wednesday! And I'm on holiday! :desert_island: I'm probably sleeping.
+It's Wednesday! And I'm on holiday! :desert_island: I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
 
-Weather in Winterthur: overcast , at +17°C.
+Weather in Winterthur: partly Cloudy , at +15°C.
