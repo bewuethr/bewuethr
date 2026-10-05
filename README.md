@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! And I'm on holiday! :desert_island: I'm probably sleeping.
+It's Monday! And I'm on holiday! :desert_island: I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
 
-Weather in Winterthur: partly Cloudy , at +13°C.
+Weather in Winterthur: mist, at +13°C.
