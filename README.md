@@ -2,4 +2,4 @@
 
 It's Monday! And I'm on holiday! :desert_island: I'm probably sleeping.
 
-Weather in Winterthur: overcast , at +13°C.
+Weather in Winterthur: partly Cloudy , at +13°C.
