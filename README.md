@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Wednesday! And I'm on holiday! :desert_island: I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
+It's Thursday! And I'm on holiday! :desert_island: I'm probably sleeping.
 
-Weather in Winterthur: overcast , at +13°C.
+Weather in Winterthur: cloudy , at +12°C.
