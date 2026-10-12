@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Sunday! And I'm on holiday! :desert_island: I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
+It's Monday! And I'm on holiday! :desert_island: I'm probably sleeping.
 
-Weather in Lucerne: partly Cloudy , at +21°C.
+Weather in Lucerne: overcast , at +19°C.
