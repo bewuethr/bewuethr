@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! And I'm on holiday! :desert_island: I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
+It's Tuesday! I'm probably working for [this bunch](https://github.com/kohofinancial), interviewing a potential new colleague.
 
-Weather in Lucerne: clear , at +7°C.
+Weather in Victoria BC: overcast , at +11°C.
