@@ -2,4 +2,4 @@
 
 It's Thursday! I'm probably working for [this bunch](https://github.com/kohofinancial), figuring out who should take care of which service.
 
-Weather in Victoria BC: overcast , at +12°C.
+Weather in Victoria BC: cloudy , at +14°C.
