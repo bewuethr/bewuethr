@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I'm probably working for [this bunch](https://github.com/kohofinancial), figuring out who should take care of which service.
+It's Thursday! I might be watching [YouTube videos about relay computers](https://youtube.com/playlist?list=PL_1HsIiuOfg3QA91DUd9kGJjQoOHwlt5Q).
 
-Weather in Victoria BC: cloudy , at +14°C.
+Weather in Victoria BC: sunny, at +14°C.
