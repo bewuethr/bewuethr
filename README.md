@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
+It's Sunday! I'm probably sleeping.
 
-Weather in Victoria BC: overcast , at +10°C.
+Weather in Victoria BC: partly Cloudy , at +7°C.
