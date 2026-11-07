@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I'm probably working for [this bunch](https://github.com/kohofinancial), making a service more micro.
+It's Friday! I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
 
-Weather in Victoria BC: light drizzle, at +11°C.
+Weather in Victoria BC: overcast , at +11°C.
