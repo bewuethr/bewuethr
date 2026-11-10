@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I'm probably working for [this bunch](https://github.com/kohofinancial), making a service more micro.
+It's Tuesday! I'm probably sleeping.
 
-Weather in Victoria BC: patchy rain nearby, at +10°C.
+Weather in Victoria BC: overcast , at +10°C.
