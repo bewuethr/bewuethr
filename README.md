@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Wednesday! I'm probably working for [this bunch](https://github.com/kohofinancial), clicking some merge buttons.
+It's Wednesday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
 
-Weather in Victoria BC: patchy rain nearby, at +12°C.
+Weather in Victoria BC: patchy rain nearby, at +14°C.
