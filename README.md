@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Wednesday! I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
+It's Thursday! I'm probably sleeping.
 
-Weather in Victoria BC: patchy rain nearby, at +14°C.
+Weather in Victoria BC: light rain shower, at +11°C.
