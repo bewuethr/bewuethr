@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! I'm probably working for [this bunch](https://github.com/kohofinancial), moving some Jira tickets.
+It's Friday! I'm probably sleeping.
 
-Weather in Victoria BC: overcast , at +13°C.
+Weather in Victoria BC: cloudy, at +10°C.
