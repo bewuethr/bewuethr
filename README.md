@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! I'm probably working for [this bunch](https://github.com/kohofinancial), de-flaking a test.
+It's Friday! And I'm on holiday! :desert_island: I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
 
-Weather in Victoria BC: overcast, at +12°C.
+Weather in Palm Springs: patchy rain nearby, at +19°C.
