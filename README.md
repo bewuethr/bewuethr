@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Sunday! And I'm on holiday! :desert_island: I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
+It's Sunday! And I'm on holiday! :desert_island: I might be finally adding refraction to my [terminal raytracer](https://github.com/bewuethr/bash-raytracer).
 
-Weather in Palm Springs: sunny, at +17°C.
+Weather in Palm Springs: sunny, at +20°C.
