@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Tuesday! And I'm on holiday! :desert_island: I'm probably sleeping.
+It's Tuesday! And I'm on holiday! :desert_island: I might be putting some [miles](https://www.strava.com/athletes/889963) in.
 
-Weather in Palm Springs: patchy rain nearby, at +13°C.
+Weather in Palm Springs: sunny, at +18°C.
