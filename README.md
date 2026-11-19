@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Wednesday! And I'm on holiday! :desert_island: I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
+It's Thursday! And I'm on holiday! :desert_island: I'm probably sleeping.
 
-Weather in Palm Springs: overcast , at +16°C.
+Weather in Palm Springs: clear , at +12°C.
