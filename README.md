@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Thursday! And I'm on holiday! :desert_island: I'm probably sleeping.
+It's Thursday! And I'm on holiday! :desert_island: I might be fighting with Jekyll to make [this](https://swissclubtoronto.ca) better.
 
-Weather in Palm Springs: clear , at +12°C.
+Weather in Palm Springs: patchy rain nearby, at +16°C.
