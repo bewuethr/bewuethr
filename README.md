@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Friday! And I'm on holiday! :desert_island: I'm probably sleeping.
+It's Friday! And I'm on holiday! :desert_island: I might be fiddling with my [dotfiles](https://github.com/bewuethr/dotfiles).
 
-Weather in Palm Springs: clear , at +10°C.
+Weather in Palm Springs: sunny, at +16°C.
