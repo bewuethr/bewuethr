@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Saturday! And I'm on holiday! :desert_island: I might be crafting a fascinating [blog post](https://benjaminwuethrich.dev).
+It's Sunday! And I'm on holiday! :desert_island: I'm probably sleeping.
 
-Weather in Victoria BC: light drizzle, at +6°C.
+Weather in Victoria BC: patchy rain nearby, at +6°C.
