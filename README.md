@@ -1,5 +1,5 @@
 ### Hi there :wave:
 
-It's Monday! I'm probably working for [this bunch](https://github.com/kohofinancial), polishing a command line interface.
+It's Monday! I might be reading a [book](https://www.goodreads.com/review/list/37130358-benjamin?ref=nav_mybooks&shelf=currently-reading).
 
-Weather in Victoria BC: overcast , at +9°C.
+Weather in Victoria BC: light rain, at +7°C.
